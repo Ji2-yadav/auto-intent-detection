@@ -1,0 +1,820 @@
+{"en_query": "Please tell me about Aflac insurance."}
+{"en_query": "I’d like to check the details of my policy with Nippon Life."}
+{"en_query": "I don’t know my policy number for AIG General Insurance."}
+{"en_query": "How do I proceed with cancelling my policy with Japan Post Insurance?"}
+{"en_query": "This is regarding a hospitalization claim with Dai-ichi Life."}
+{"en_query": "I’d like to ask about Sony Assurance insurance."}
+{"en_query": "I thought it was your insurance, but when I checked the policy, it was Aflac. Can we continue talking about this?"}
+{"en_query": "I’m calling regarding a Nippon Life insurance policy I had before."}
+{"en_query": "My AIG insurance is up for renewal soon, so I’d like to discuss it."}
+{"en_query": "This is about a Japan Post Insurance policy my father had."}
+{"en_query": "I have multiple insurance policies and would like to know the coverage details for my Dai-ichi Life policy."}
+{"en_query": "It's about Aflac's cancer insurance. [hesitation]"}
+{"en_query": "Excuse me, this is regarding AIG."}
+{"en_query": "Cancellation of my Nippon Life policy."}
+{"en_query": "About Kampo's educational insurance."}
+{"en_query": "Can I ask about Dai-ichi Life?"}
+{"en_query": "Aflac. [company identification]"}
+{"en_query": "I have a few questions about Aflac's products."}
+{"en_query": "Could you please provide information about the contract details with AIG General Insurance Company?"}
+{"en_query": "Could you explain the insurance claim procedure for Nippon Life?"}
+{"en_query": "The representative is recommending a Dai-ichi Life insurance policy to me."}
+{"en_query": "I am a policyholder with Japan Post Insurance, and this is regarding a change of address."}
+{"en_query": "I want to check my policy."}
+{"en_query": "I want to check the details of my policy."}
+{"en_query": "I want to check the status of my policy."}
+{"en_query": "I’d like to check my policy number."}
+{"en_query": "I’d like to confirm the type of insurance."}
+{"en_query": "I’d like to check the amount at the time of cancellation."}
+{"en_query": "I’d like to know how much I would receive if I cancel."}
+{"en_query": "I’d like to check the outstanding loan balance."}
+{"en_query": "I’d like to check the remaining loan balance."}
+{"en_query": "I’d like to check the investment status."}
+{"en_query": "I’d like to check the unit price."}
+{"en_query": "I’d like to check the payment status."}
+{"en_query": "I’d like to confirm whether the deposit has been made."}
+{"en_query": "I would like to check the payment account."}
+{"en_query": "I would like to check the credit card."}
+{"en_query": "I would like to check the beneficiary."}
+{"en_query": "I would like to check the registered family members."}
+{"en_query": "Please tell me the details of my policy."}
+{"en_query": "What is my policy number?"}
+{"en_query": "Who is listed as the beneficiary for this insurance?"}
+{"en_query": "How much will I receive if I cancel the policy?"}
+{"en_query": "What is my current enrollment status?"}
+{"en_query": "What is my current loan balance?"}
+{"en_query": "I can't remember my policy number."}
+{"en_query": "I'm worried about whether my payments are being made properly and would like to check."}
+{"en_query": "I'm considering cancelling and would like to know the surrender value first."}
+{"en_query": "I need to confirm the beneficiary."}
+{"en_query": "Could you check if the plan I have registered is correct?"}
+{"en_query": "Regarding my policy number... [hesitation]"}
+{"en_query": "Excuse me, about the money I borrowed."}
+{"en_query": "Could you tell me who the beneficiary is?"}
+{"en_query": "Can you tell me the status of my credit card registration?"}
+{"en_query": "This is about my loan balance."}
+{"en_query": "I'd like you to check if the payment has been received."}
+{"en_query": "It's about the type of insurance."}
+{"en_query": "Could you please provide details about the policy contents?"}
+{"en_query": "Could you confirm the amount of the surrender value?"}
+{"en_query": "I have a question about registered family members."}
+{"en_query": "Could you tell me your current type of insurance?"}
+{"en_query": "I would like to check which bank is registered as the payment account."}
+{"en_query": "Is it possible to view the unit price?"}
+{"en_query": "I want to check my coverage."}
+{"en_query": "I want to check the details of my coverage."}
+{"en_query": "I’d like to confirm if coverage is included."}
+{"en_query": "I’d like to confirm if death coverage is included."}
+{"en_query": "I’d like to confirm if hospitalization coverage is included."}
+{"en_query": "I’d like to confirm if surgical coverage is included."}
+{"en_query": "I’d like to confirm if outpatient coverage is included."}
+{"en_query": "I would like to confirm what is covered by the policy."}
+{"en_query": "I would like to confirm if cancer is covered."}
+{"en_query": "Please tell me the coverage details for my policy."}
+{"en_query": "Does this insurance include coverage for cancer?"}
+{"en_query": "If I am hospitalized, will the policy provide coverage?"}
+{"en_query": "Does my insurance cover surgical expenses?"}
+{"en_query": "I would like to know the amount of death benefit included."}
+{"en_query": "Is outpatient treatment also covered?"}
+{"en_query": "I've been worried about cancer lately and wanted to check what coverage I have."}
+{"en_query": "I want to know if this insurance will be sufficient in case I need to be hospitalized."}
+{"en_query": "I would like to review the death benefit coverage in case of an emergency."}
+{"en_query": "I might need to have a minor surgery, so I’d like to ask about the coverage."}
+{"en_query": "If I receive outpatient treatment for a fracture, is it covered?"}
+{"en_query": "[hesitation] Regarding the death benefit, could you explain the details?"}
+{"en_query": "Excuse me, the hospitalization coverage."}
+{"en_query": "I’d like to know if outpatient coverage is included."}
+{"en_query": "I have a question about the surgical coverage and would like to confirm something."}
+{"en_query": "Could you give me a general overview of the coverage in my policy?"}
+{"en_query": "What happens with this insurance if I am diagnosed with cancer?"}
+{"en_query": "Coverage."}
+{"en_query": "Could you provide details about the illness coverage included in the insurance contract?"}
+{"en_query": "I would like to ask about the coverage details for hospitalization benefits."}
+{"en_query": "Please confirm the death benefit attached to this policy."}
+{"en_query": "I would like to confirm whether surgery is covered under this policy."}
+{"en_query": "Could you explain the coverage conditions for outpatient treatment in detail?"}
+{"en_query": "I would like to ask about the coverage in case of a cancer diagnosis."}
+{"en_query": "I want to confirm how to cancel my policy."}
+{"en_query": "I want to check how to cancel my policy."}
+{"en_query": "I want to confirm the cancellation procedure."}
+{"en_query": "I want to check if I can cancel by phone."}
+{"en_query": "I’d like to confirm if I can cancel my policy online."}
+{"en_query": "I’d like to check if I can cancel my policy on the internet."}
+{"en_query": "Please tell me how to cancel my policy."}
+{"en_query": "What should I do to cancel my insurance?"}
+{"en_query": "I’d like to cancel my policy."}
+{"en_query": "Can I cancel my policy online?"}
+{"en_query": "I’d like to know how to cancel my policy."}
+{"en_query": "Is it possible to cancel with just a phone call?"}
+{"en_query": "I’m thinking of ending my contract and would like to ask about the procedure."}
+{"en_query": "I’d like to request the cancellation documents."}
+{"en_query": "I need to cancel this insurance soon."}
+{"en_query": "I’ve decided to end my insurance next month, so please tell me what I need to do."}
+{"en_query": "I’m considering canceling my policy because paying the premiums is difficult."}
+{"en_query": "Excuse me, I’d like to cancel my policy. [hesitation] What should I do?"}
+{"en_query": "The cancellation procedure, [hesitation], right?"}
+{"en_query": "I want to cancel this insurance."}
+{"en_query": "Is it possible to cancel over the phone?"}
+{"en_query": "I want to quickly cancel online—can you tell me how?"}
+{"en_query": "Cancellation procedure."}
+{"en_query": "When you cancel insurance... [hesitation]"}
+{"en_query": "Could you please explain how to proceed with the cancellation process?"}
+{"en_query": "I would like to cancel my contract and would like to ask about the procedure."}
+{"en_query": "Could you tell me the steps for canceling my policy in writing?"}
+{"en_query": "What is the process for canceling through the website?"}
+{"en_query": "I would like to initiate the cancellation procedure for this contract."}
+{"en_query": "Is it possible to speak directly with a representative to cancel my policy?"}
+{"en_query": "I would like to review the cancellation procedure documents."}
+{"en_query": "I would like to confirm which documents are required for cancellation."}
+{"en_query": "I would like to check the documents to be attached for cancellation."}
+{"en_query": "I would like to confirm what is needed for cancellation."}
+{"en_query": "I’d like to confirm if the insurance policy is required for cancellation."}
+{"en_query": "I’d like to confirm if a copy of my driver’s license is required for cancellation."}
+{"en_query": "I’d like to confirm if a certificate of seal impression is required for cancellation."}
+{"en_query": "What documents are required for cancellation?"}
+{"en_query": "Is identification required for the cancellation procedure?"}
+{"en_query": "Do I have to attach the insurance policy?"}
+{"en_query": "What do I need to send when I cancel my policy?"}
+{"en_query": "Do I need to submit a copy of my driver's license?"}
+{"en_query": "Please tell me about the set of documents required for cancellation."}
+{"en_query": "I am preparing the cancellation documents; please tell me what is required."}
+{"en_query": "I can't find my insurance policy; can I still proceed with the procedure?"}
+{"en_query": "I want to proceed with the cancellation, so I'd like to confirm the required documents."}
+{"en_query": "I want to know if I need to obtain a seal registration certificate."}
+{"en_query": "I want to prepare everything necessary for the cancellation."}
+{"en_query": "Besides the application documents, is there anything else I need?"}
+{"en_query": "Regarding the documents for cancellation."}
+{"en_query": "Please tell me what is required for cancellation."}
+{"en_query": "Do I need a copy of my driver's license?"}
+{"en_query": "Required documents for cancellation."}
+{"en_query": "Excuse me, about the attachments needed for cancellation."}
+{"en_query": "I need to send this insurance policy, correct?"}
+{"en_query": "Do I also need a seal registration certificate for cancellation?"}
+{"en_query": "Could you please let me know all the documents required for the cancellation procedure?"}
+{"en_query": "Is a copy of my driver's license valid as identification?"}
+{"en_query": "I would like to ask about alternative documents required if the insurance policy is lost."}
+{"en_query": "What documents do I need to prepare for the cancellation?"}
+{"en_query": "Is it mandatory to attach a certificate of seal impression?"}
+{"en_query": "I would like to check the status of my cancellation procedure."}
+{"en_query": "I would like to confirm whether my policy has been cancelled."}
+{"en_query": "I submitted the cancellation documents and would like to confirm if they have been received."}
+{"en_query": "I submitted the cancellation documents and would like to confirm if the process is complete."}
+{"en_query": "I would like to confirm when the cancellation will take effect."}
+{"en_query": "I would like to confirm when the cancellation payment will be transferred."}
+{"en_query": "Please tell me the status of my cancellation procedure."}
+{"en_query": "Have the cancellation documents I submitted been received?"}
+{"en_query": "Has the cancellation process been completed?"}
+{"en_query": "When will the surrender value be transferred?"}
+{"en_query": "I would like to know the status of my cancellation."}
+{"en_query": "What is the current status of the procedure?"}
+{"en_query": "I sent the cancellation documents the other day; could you update me on the current situation?"}
+{"en_query": "I'm calling to check on the cancellation request I made previously."}
+{"en_query": "It's been a week since I sent the documents—has the cancellation been processed yet?"}
+{"en_query": "I'd like to know the scheduled date for the cancellation payout."}
+{"en_query": "I'm calling to confirm whether the procedure has been completed."}
+{"en_query": "I'd like to check how far along the cancellation process is."}
+{"en_query": "[hesitation] Regarding the status of my cancellation..."}
+{"en_query": "What is the update on my cancellation?"}
+{"en_query": "Have you received the documents?"}
+{"en_query": "Status of the cancellation."}
+{"en_query": "When will the payment be made?"}
+{"en_query": "I submitted the cancellation documents—what happened after that?"}
+{"en_query": "I’d like to know when the cancellation will take effect."}
+{"en_query": "Could you please update me on the status of my cancellation process?"}
+{"en_query": "Could you confirm receipt of the cancellation documents I mailed the other day?"}
+{"en_query": "How long does it take for the procedure to be completed?"}
+{"en_query": "I would like to ask about the scheduled transfer date for the surrender value."}
+{"en_query": "Please confirm whether the cancellation process for this contract has been completed."}
+{"en_query": "I would like to check how to fill out the cancellation documents."}
+{"en_query": "I would like to confirm how to complete the cancellation documents."}
+{"en_query": "I would like to confirm how I should fill out the cancellation documents."}
+{"en_query": "I don't know how to fill out the cancellation claim form."}
+{"en_query": "I don't know how to complete the cancellation claim form."}
+{"en_query": "Please tell me how to fill out the cancellation claim form."}
+{"en_query": "I have a few questions about how to fill out this document."}
+{"en_query": "What should I write in this section of the cancellation form?"}
+{"en_query": "Is it okay to use today’s date for the claim date section?"}
+{"en_query": "I don’t know how to fill in the account number."}
+{"en_query": "There are some parts I don’t understand about how to fill out the cancellation documents."}
+{"en_query": "I’m filling out the cancellation documents you mailed me, but I’m having some trouble."}
+{"en_query": "I got stuck while filling out the cancellation request form."}
+{"en_query": "I made a mistake—can I use correction tape?"}
+{"en_query": "For the signature section, whose name should I write?"}
+{"en_query": "Are there any sample forms or examples for the cancellation documents?"}
+{"en_query": "[hesitation] About how to fill out the cancellation documents..."}
+{"en_query": "How should I fill out the cancellation request form?"}
+{"en_query": "How to fill out this form."}
+{"en_query": "I have a question about how to fill it out."}
+{"en_query": "Regarding this section of the cancellation form, what should I write here?"}
+{"en_query": "I don't know how to fill it out."}
+{"en_query": "Filling out the cancellation request form."}
+{"en_query": "Could you please explain how to fill out the cancellation request form?"}
+{"en_query": "I called because I have some questions about how to fill out the form."}
+{"en_query": "I have a few questions regarding how to complete the documents."}
+{"en_query": "Are there any important points I should be aware of when filling out the form?"}
+{"en_query": "Should the account holder’s name be written in katakana?"}
+{"en_query": "Please explain how to fill out the invoice you sent."}
+{"en_query": "I would like to confirm how to file a hospitalization claim."}
+{"en_query": "I want to check how to submit a hospitalization claim."}
+{"en_query": "I want to confirm the procedure for a hospitalization claim."}
+{"en_query": "I want to check if I can file a hospitalization claim by phone."}
+{"en_query": "I’d like to confirm if I can file a hospitalization claim online."}
+{"en_query": "I’d like to confirm if I can file a hospitalization claim through the internet."}
+{"en_query": "Please tell me how to file a claim for hospitalization benefits."}
+{"en_query": "I’d like to file a hospitalization claim—what should I do?"}
+{"en_query": "Can I file a hospitalization claim online?"}
+{"en_query": "I would like to know about the insurance claim process."}
+{"en_query": "Is it possible to file a hospitalization claim over the phone?"}
+{"en_query": "How do I file a claim for benefits?"}
+{"en_query": "I was discharged from the hospital recently and would like to ask about the insurance claim process."}
+{"en_query": "I will be hospitalized next week and want to prepare for filing a claim."}
+{"en_query": "My family member has been hospitalized, so I would like to proceed with the claim process on their behalf."}
+{"en_query": "I have been hospitalized and would like to request a benefit claim."}
+{"en_query": "I would like to file a claim, so could you send me the necessary documents?"}
+{"en_query": "[hesitation] I was hospitalized and, um, I would like to file a claim..."}
+{"en_query": "Excuse me, this is regarding a hospitalization claim."}
+{"en_query": "Please tell me how to file a hospitalization claim."}
+{"en_query": "Can I complete everything online?"}
+{"en_query": "Hospitalization insurance claim."}
+{"en_query": "This is about filing a benefits claim."}
+{"en_query": "I was hospitalized, so I'd like to file a claim for payment."}
+{"en_query": "I would like to start the hospitalization benefit claim process. Could you please explain the procedure?"}
+{"en_query": "Please explain the process for submitting a claim online."}
+{"en_query": "I am calling to file a benefit claim due to a family member’s hospitalization."}
+{"en_query": "I would like to ask about the procedure for claiming hospitalization insurance benefits."}
+{"en_query": "What are the steps for submitting a claim through the website?"}
+{"en_query": "I would like to check the documents required for a hospitalization claim."}
+{"en_query": "I would like to confirm which documents are needed for a hospitalization claim."}
+{"en_query": "I would like to check the documents to attach for a hospitalization claim."}
+{"en_query": "I would like to confirm what is required for a hospitalization claim."}
+{"en_query": "I would like to confirm if the insurance policy is needed for a hospitalization claim."}
+{"en_query": "I’d like to confirm if a medical certificate is required for a hospitalization claim."}
+{"en_query": "I’d like to confirm if a copy of the receipt is required for a hospitalization claim."}
+{"en_query": "What documents are required for a hospitalization claim?"}
+{"en_query": "Is a medical certificate mandatory for the hospitalization claim process?"}
+{"en_query": "Is it sufficient to submit a copy of the insurance policy?"}
+{"en_query": "For the benefit claim, is there anything else I need to provide?"}
+{"en_query": "I was hospitalized—what documents should I send?"}
+{"en_query": "Is it not possible to file a claim without a receipt?"}
+{"en_query": "I have been discharged and am preparing my claim; please tell me what is required."}
+{"en_query": "I forgot to obtain a medical certificate—can I still proceed with the process?"}
+{"en_query": "I would like to prepare all the documents required for a hospitalization claim."}
+{"en_query": "What should I do if I can't find the original receipt?"}
+{"en_query": "Is it possible to file a claim without having the insurance policy on hand?"}
+{"en_query": "[hesitation] It's about the documents for the hospitalization claim."}
+{"en_query": "Please tell me what is needed to file a hospitalization claim."}
+{"en_query": "Do I need a medical certificate?"}
+{"en_query": "Required documents for hospitalization."}
+{"en_query": "Excuse me, about the attachments for a hospitalization claim."}
+{"en_query": "Is a copy of the receipt sufficient?"}
+{"en_query": "For a hospitalization claim, do I also need the policy and other documents?"}
+{"en_query": "Could you please let me know the complete set of documents required to claim hospitalization benefits?"}
+{"en_query": "If I am unable to submit a physician’s certificate, are there any alternative documents that can be provided?"}
+{"en_query": "I would like to ask about the required documents if the insurance policy has been lost."}
+{"en_query": "What documents should I prepare when making a claim?"}
+{"en_query": "Is it mandatory to submit a copy of the receipt?"}
+{"en_query": "I would like to check the status of my hospitalization claim procedure."}
+{"en_query": "I would like to confirm whether my hospitalization claim has been submitted."}
+{"en_query": "I submitted my hospitalization documents and would like to confirm if they have been received."}
+{"en_query": "I submitted my hospitalization documents and would like to confirm if the procedure has been completed."}
+{"en_query": "I would like to confirm when the hospitalization payment will be transferred."}
+{"en_query": "Please tell me the status of my hospitalization claim."}
+{"en_query": "Have the hospitalization documents I submitted been received?"}
+{"en_query": "Has the benefit payment been completed?"}
+{"en_query": "When will the hospitalization benefit be transferred?"}
+{"en_query": "I would like to know the progress of my claim."}
+{"en_query": "I sent the hospitalization claim documents recently. Could you tell me the current status?"}
+{"en_query": "I'm calling to check on the benefit payment I requested earlier."}
+{"en_query": "It's been quite a while since I sent the documents. Has the process not been completed yet?"}
+{"en_query": "I'd like to know the scheduled date for the benefit payment transfer."}
+{"en_query": "I want to confirm whether my claim has been properly submitted."}
+{"en_query": "I’d like to check the status of my hospitalization claim."}
+{"en_query": "[hesitation] Regarding the progress of my hospitalization claim..."}
+{"en_query": "What’s happening with the hospitalization?"}
+{"en_query": "Have you received the documents?"}
+{"en_query": "Status of the benefit payment."}
+{"en_query": "When will the payment be deposited?"}
+{"en_query": "I submitted the hospitalization documents—what happened after that?"}
+{"en_query": "It's about when the payment will be transferred."}
+{"en_query": "Could you please provide an update on the status of my hospitalization benefit claim?"}
+{"en_query": "Could you confirm receipt of the claim documents I mailed the other day?"}
+{"en_query": "Could you tell me the estimated time until the procedure is completed?"}
+{"en_query": "I would like to ask about the scheduled date for the benefit payment transfer."}
+{"en_query": "Please check whether the claim processing has been completed."}
+{"en_query": "I would like to confirm how to fill out the hospitalization documents."}
+{"en_query": "I would like to confirm how to complete the hospitalization documents."}
+{"en_query": "I would like to confirm how to fill out the hospitalization documents."}
+{"en_query": "I don't know how to fill out the hospitalization claim form."}
+{"en_query": "I don't know how to complete the hospitalization claim form."}
+{"en_query": "Please tell me how to fill out the hospitalization claim form."}
+{"en_query": "What should I write in this section of the hospitalization claim form?"}
+{"en_query": "There are some parts I don't understand about how to fill out the hospitalization documents."}
+{"en_query": "I'm filling out the hospitalization documents that were mailed to me, but I'm having some trouble."}
+{"en_query": "I got stuck while filling out the hospitalization claim form."}
+{"en_query": "Is there a sample or example for filling out the hospitalization claim form?"}
+{"en_query": "[Hesitation] About how to fill out the hospitalization claim form..."}
+{"en_query": "How should I fill out the hospitalization documents?"}
+{"en_query": "Regarding this part of the hospitalization documents, what should I write here? [hesitation]"}
+{"en_query": "Filling out the hospitalization claim form."}
+{"en_query": "Could you please explain how to fill out the hospitalization benefits claim form?"}
+{"en_query": "For the account holder section, should I enter the insured person's name?"}
+{"en_query": "I’d like to confirm if I can file a claim for hospitalization."}
+{"en_query": "I was hospitalized, so I’d like to confirm if I can file a claim."}
+{"en_query": "I will be hospitalized, so I’d like to confirm if I can file a claim."}
+{"en_query": "I’d like to confirm if hospitalization is covered."}
+{"en_query": "I’d like to confirm if I am eligible for a hospitalization benefit."}
+{"en_query": "Can I file a claim for benefits for this hospitalization?"}
+{"en_query": "Is this hospitalization covered under my insurance?"}
+{"en_query": "I was hospitalized—can I submit a claim?"}
+{"en_query": "Does this insurance pay out for hospitalization?"}
+{"en_query": "In what situations can I claim the hospitalization benefit?"}
+{"en_query": "Is a hospitalization for tests also eligible for a claim?"}
+{"en_query": "I was hospitalized for about five days recently and would like to confirm if I can use my insurance."}
+{"en_query": "I am scheduled to be hospitalized next week and wanted to ask in advance if I can file a claim."}
+{"en_query": "It was just a short day hospitalization—can I still make a claim for that?"}
+{"en_query": "The doctor said my hospitalization was not due to illness; is it still covered?"}
+{"en_query": "I was hospitalized due to an accident. Will I receive a payout?"}
+{"en_query": "[hesitation] I was hospitalized—can I file a claim?"}
+{"en_query": "Will I get a payout for my hospitalization?"}
+{"en_query": "Does my insurance cover my recent hospitalization?"}
+{"en_query": "I want to know if I can file a claim for my hospitalization."}
+{"en_query": "Excuse me, I’d like to know if I am eligible for hospitalization benefits."}
+{"en_query": "I was hospitalized and want to know if I can file a claim."}
+{"en_query": "Regarding my hospitalization."}
+{"en_query": "Please confirm whether I can claim benefits for my recent hospitalization."}
+{"en_query": "I’d like to ask if it will be possible to file a claim for any future hospitalization."}
+{"en_query": "Could you please confirm whether this policy covers the current hospitalization?"}
+{"en_query": "I would like to confirm if this hospitalization is eligible for the hospitalization benefit payment."}
+{"en_query": "I would like to ask if hospitalization due to a specific illness or injury is covered by the benefit."}
+{"en_query": "I would like to confirm whether the hospitalization claim has been processed."}
+{"en_query": "I was hospitalized previously and would like to confirm if the claim has been processed."}
+{"en_query": "I would like to confirm whether the hospitalization procedure has been completed."}
+{"en_query": "Please provide the history of my past hospitalization claims."}
+{"en_query": "Has the hospitalization from last summer already been claimed?"}
+{"en_query": "I would like to confirm whether I received the benefit payment for my previous hospitalization."}
+{"en_query": "Can you check the payment history for my hospitalization benefits?"}
+{"en_query": "How many times have you submitted hospitalization claims in the past?"}
+{"en_query": "It was a hospitalization five years ago—has a claim been filed for it?"}
+{"en_query": "I was hospitalized quite a while ago, but I can't remember if I submitted a claim."}
+{"en_query": "I want to make sure I haven't missed any claims, so could you check my past hospitalization history?"}
+{"en_query": "I believe I was hospitalized twice, and I'd like to know if claims were filed for both."}
+{"en_query": "My family asked me, \"Did you file a claim?\" but my memory is unclear."}
+{"en_query": "I’d like to confirm whether the claim for my previous hospitalization was processed correctly."}
+{"en_query": "[hesitation] Regarding the claim history for my previous hospitalization."}
+{"en_query": "Did I file a claim for last year’s hospitalization?"}
+{"en_query": "Hospitalization claim history."}
+{"en_query": "Did I already file a claim for my hospitalization three years ago?"}
+{"en_query": "Excuse me, it's about a past hospitalization."}
+{"en_query": "Please check if I completed the procedures for my previous hospitalization."}
+{"en_query": "Hospitalization history."}
+{"en_query": "Could you please check the claim history for past hospitalization benefits?"}
+{"en_query": "I would like to ask whether the claim process for my previous hospitalization has been completed."}
+{"en_query": "I am contacting you to request a review of my past claim records."}
+{"en_query": "I would like to confirm whether there were any claims related to my hospitalization a few years ago."}
+{"en_query": "Please provide the payment history for past hospitalization benefits in my insured records."}
+{"en_query": "I would like to confirm how to file a claim for surgery."}
+{"en_query": "I would like to confirm how to file a claim for surgery."}
+{"en_query": "I want to check the procedure for filing a surgery claim."}
+{"en_query": "I want to confirm if I can file a surgery claim by phone."}
+{"en_query": "I want to confirm if I can file a surgery claim online."}
+{"en_query": "I want to confirm if I can file a surgery claim on the internet."}
+{"en_query": "Please tell me how to file a claim for surgical benefits."}
+{"en_query": "I would like to file a claim for surgery; what should I do?"}
+{"en_query": "Can I file a surgery claim online?"}
+{"en_query": "I would like information about filing a surgical insurance claim."}
+{"en_query": "Is it possible to file a surgery claim by phone?"}
+{"en_query": "How do I file a claim for surgical benefits?"}
+{"en_query": "I had surgery recently and would like to ask about the insurance claim process."}
+{"en_query": "I am scheduled for surgery next month and want to prepare for the claim."}
+{"en_query": "It was a same-day surgery; how does the claim process work in this case?"}
+{"en_query": "I had surgery, so please process my benefit claim."}
+{"en_query": "I would like to file a claim, so could you send me the documents for surgery?"}
+{"en_query": "[hesitation] I had surgery, so, um, I’d like to file a claim…"}
+{"en_query": "Excuse me, this is regarding a surgery claim."}
+{"en_query": "Please tell me how to file a surgery claim."}
+{"en_query": "Can I complete the entire procedure online?"}
+{"en_query": "Claim for surgical insurance."}
+{"en_query": "It's about filing a claim for surgery."}
+{"en_query": "I had surgery and would like to file a claim for the payment."}
+{"en_query": "I would like to start the claim process for surgical benefits. Could you explain the procedure?"}
+{"en_query": "Please explain the process for filing a surgical claim online."}
+{"en_query": "I am calling to file a claim for benefits related to the surgery I had recently."}
+{"en_query": "I would like to ask about the procedure for claiming surgical insurance benefits."}
+{"en_query": "I want to check the documents required for the surgical claim procedure."}
+{"en_query": "I want to confirm which documents are needed for a surgical claim."}
+{"en_query": "I want to check the documents to attach for a surgical claim."}
+{"en_query": "I’d like to confirm what is required for a surgery claim."}
+{"en_query": "I’d like to confirm if an insurance policy is needed for a surgery claim."}
+{"en_query": "I’d like to confirm if a medical certificate is needed for a surgery claim."}
+{"en_query": "I’d like to confirm if a copy of the receipt is needed for a surgery claim."}
+{"en_query": "For a surgery claim, what documents are required?"}
+{"en_query": "Is a medical certificate required to claim the surgical benefit?"}
+{"en_query": "For a surgical claim, is there anything else I need?"}
+{"en_query": "I had surgery—what should I send?"}
+{"en_query": "Without a receipt, can I still file a surgical claim?"}
+{"en_query": "I am preparing to file a claim because I have surgery next week. Please tell me what I need."}
+{"en_query": "I did not receive a medical certificate from the hospital where I had surgery. Can I still proceed with the procedure?"}
+{"en_query": "I would like to prepare all the documents required for a surgery claim."}
+{"en_query": "I do not have my insurance policy with me. Is it still possible to file a surgery claim?"}
+{"en_query": "[hesitation] Please tell me what is needed to file a surgery claim."}
+{"en_query": "Required documents for surgery."}
+{"en_query": "Excuse me, this is about the documents to attach for a surgery claim."}
+{"en_query": "For a surgery claim, do I also need the policy and other documents?"}
+{"en_query": "I had surgery, so I’d like to ask about the required documents."}
+{"en_query": "Could you please let me know the full set of documents required to claim the surgical benefit?"}
+{"en_query": "What documents should I prepare when making a surgery claim?"}
+{"en_query": "I’d like to check the status of my surgery claim."}
+{"en_query": "I’d like to confirm whether my surgery claim has been submitted."}
+{"en_query": "I submitted the documents for my surgery and would like to confirm if you have received them."}
+{"en_query": "I submitted the documents for my surgery and would like to confirm if the process is complete."}
+{"en_query": "I’d like to confirm when the payment for my surgery will be transferred."}
+{"en_query": "Please tell me the status of my surgery claim."}
+{"en_query": "Have the documents I submitted for the surgery been received?"}
+{"en_query": "When will the payment for the surgery be deposited?"}
+{"en_query": "I sent the documents for my surgery claim the other day; could you update me on the status?"}
+{"en_query": "I'm calling to check on the surgery benefit I requested previously."}
+{"en_query": "I’d like to know the scheduled payment date for the surgical benefit."}
+{"en_query": "I’d like to check the status of my surgical claim."}
+{"en_query": "[hesitation] Regarding the progress of my surgical claim..."}
+{"en_query": "What’s the status of my surgery claim?"}
+{"en_query": "Status of the surgical benefit payment."}
+{"en_query": "I submitted the documents for the surgery, but what happened after that?"}
+{"en_query": "I’d like to know when the payment for the surgery will be deposited."}
+{"en_query": "Could you please provide an update on the status of my surgical benefits claim?"}
+{"en_query": "I’d like to ask about the scheduled date for the surgical benefits payment."}
+{"en_query": "I’d like to confirm how to fill out the surgery documents."}
+{"en_query": "I would like to confirm how to fill out the surgery documents."}
+{"en_query": "I want to check how I should complete the surgery documents."}
+{"en_query": "I don't know how to fill out the surgery claim form."}
+{"en_query": "I don't know how to complete the surgery claim form."}
+{"en_query": "Please tell me how to fill out the surgery claim form."}
+{"en_query": "I have a few questions about how to fill out the documents for this surgery."}
+{"en_query": "What should I write in this section of the surgery claim form?"}
+{"en_query": "For the claim date section, should I enter the date of the surgery?"}
+{"en_query": "There are some parts I don't understand about how to fill out the surgery documents."}
+{"en_query": "I'm filling out the surgery documents that were mailed to me, but I'm having some trouble."}
+{"en_query": "I got stuck filling out the surgical claim form."}
+{"en_query": "I made a mistake—can I correct it with a double line?"}
+{"en_query": "Are there any sample forms or examples for the surgery documents?"}
+{"en_query": "[hesitation] About how to fill out the surgical claim form..."}
+{"en_query": "How should I fill out the surgery documents?"}
+{"en_query": "Regarding the surgery documents, [hesitation] this section—what should I write here?"}
+{"en_query": "Filling out the surgery claim form."}
+{"en_query": "Could you please explain how to fill out the surgical benefits claim form?"}
+{"en_query": "Do I need to enter the official name in the surgery name field?"}
+{"en_query": "I’d like to confirm if I can file a claim for the surgery."}
+{"en_query": "I would like to confirm if I can file a claim because I had surgery."}
+{"en_query": "I would like to confirm if I can file a claim because I will have surgery."}
+{"en_query": "I want to confirm if surgery is covered. [unclear]"}
+{"en_query": "I want to confirm if the surgery benefit will be paid."}
+{"en_query": "Can I file a benefit claim for this surgery?"}
+{"en_query": "Does my insurance cover this surgery?"}
+{"en_query": "I had surgery; can I file a claim?"}
+{"en_query": "Does this insurance pay out for surgeries as well?"}
+{"en_query": "Under what circumstances can I claim the surgical benefit?"}
+{"en_query": "Is a simple same-day surgery also eligible for a claim?"}
+{"en_query": "I recently had a minor surgery and would like to confirm if I can use my insurance."}
+{"en_query": "I am scheduled to be hospitalized for surgery next week, so I wanted to ask in advance if I can file a claim."}
+{"en_query": "It was cataract surgery—can I still file a claim for that?"}
+{"en_query": "The medical certificate says \"surgery.\" Does this qualify for a benefit payment?"}
+{"en_query": "I had surgery due to an accident—will I receive a payout?"}
+{"en_query": "I had surgery; can I file a claim?"}
+{"en_query": "Will I receive a payout for the surgery?"}
+{"en_query": "Does the recent surgery qualify for insurance coverage?"}
+{"en_query": "Whether I can file a claim for the surgery."}
+{"en_query": "Excuse me, I’d like to know if the surgery benefit applies."}
+{"en_query": "I had surgery and would like to know if I can file a claim."}
+{"en_query": "Regarding the surgery."}
+{"en_query": "Please confirm whether I can file a benefits claim for the recent surgery."}
+{"en_query": "I would like to ask if it will be possible to file a claim for an upcoming surgery."}
+{"en_query": "Could you let me know if this policy covers the recent surgery?"}
+{"en_query": "I would like to confirm whether the surgical benefit is covered."}
+{"en_query": "I would like to ask if a specific surgical procedure is eligible for the benefit."}
+{"en_query": "I want to check if the claim for the surgery has been completed."}
+{"en_query": "I had surgery before and want to confirm if the claim has been submitted."}
+{"en_query": "I want to confirm whether the procedure for the surgery is being processed."}
+{"en_query": "Please provide the history of my past surgery claims."}
+{"en_query": "Has the surgery I had last spring already been claimed?"}
+{"en_query": "I would like to confirm whether I received a benefit payment for my previous surgery."}
+{"en_query": "Can you check the payment history for my surgical benefits?"}
+{"en_query": "How many times have I submitted surgery claims in the past?"}
+{"en_query": "The surgery was three years ago—has a claim been filed for it?"}
+{"en_query": "I had surgery quite a while ago, but I can't remember if I filed a claim."}
+{"en_query": "I want to make sure I haven't missed any claims; could you check my past surgery history?"}
+{"en_query": "I believe I had surgery twice, and I'd like to know if claims were filed for both."}
+{"en_query": "My family asked me, \"Did you file a claim for that surgery?\" but my memory is unclear."}
+{"en_query": "Please confirm whether the claim for my previous cataract surgery was processed correctly."}
+{"en_query": "[hesitation] It's about the claim history for my previous surgery."}
+{"en_query": "Did I file a claim for last year's surgery?"}
+{"en_query": "Surgery claim history."}
+{"en_query": "Was the surgery from about five years ago already claimed?"}
+{"en_query": "Excuse me, this is about a past surgery."}
+{"en_query": "I’d like you to check if the procedure for my previous surgery has been processed."}
+{"en_query": "Surgery history."}
+{"en_query": "Could you please check the claim history for past surgical benefits?"}
+{"en_query": "I’d like to ask whether the claim process for my previous surgery has been completed."}
+{"en_query": "I would like to confirm whether there was a claim related to a surgery from several years ago."}
+{"en_query": "Please provide the payment history for past surgical benefits on my insured record."}
+{"en_query": "I would like to confirm how to file an outpatient claim."}
+{"en_query": "I would like to confirm the procedure for filing an outpatient claim."}
+{"en_query": "I would like to confirm the outpatient claim process."}
+{"en_query": "I’d like to confirm if I can file an outpatient claim by phone."}
+{"en_query": "I’d like to confirm if I can file an outpatient claim on the website."}
+{"en_query": "I’d like to confirm if I can file an outpatient claim online."}
+{"en_query": "Please tell me how to file a claim for outpatient benefits."}
+{"en_query": "I’d like to file an outpatient claim—what should I do?"}
+{"en_query": "Can I file a claim for outpatient treatment online?"}
+{"en_query": "I would like to know about the claim process for outpatient insurance benefits."}
+{"en_query": "Is it possible to file an outpatient claim by phone?"}
+{"en_query": "How do I file a claim for outpatient treatment?"}
+{"en_query": "I recently received outpatient treatment for an injury and would like to ask about the insurance claim process."}
+{"en_query": "I have started outpatient visits after surgery, so I would like to prepare for filing a claim."}
+{"en_query": "My child had outpatient visits, so I would like to proceed with the claim process on their behalf."}
+{"en_query": "I had outpatient treatment, so I would like to request a benefit claim."}
+{"en_query": "I would like to file a claim, so could you send me the documents for outpatient treatment?"}
+{"en_query": "[hesitation] I had outpatient treatment and would like to file a claim."}
+{"en_query": "Excuse me, it's about an outpatient claim."}
+{"en_query": "Please tell me how to file an outpatient claim."}
+{"en_query": "Outpatient insurance claim."}
+{"en_query": "It's regarding an outpatient claim."}
+{"en_query": "I had an outpatient visit and would like to file a claim."}
+{"en_query": "I would like to start the claim process for outpatient benefits. Could you please explain the procedure?"}
+{"en_query": "Please explain the process for submitting an outpatient claim online."}
+{"en_query": "I am calling to file a claim for benefits due to a family member’s outpatient treatment."}
+{"en_query": "I would like to ask about the procedure for claiming outpatient insurance benefits."}
+{"en_query": "Could you tell me how to file a claim by paper?"}
+{"en_query": "I’d like to check the documents required for an outpatient claim."}
+{"en_query": "I’d like to confirm which documents are needed for an outpatient claim."}
+{"en_query": "I’d like to check which documents should be attached to an outpatient claim."}
+{"en_query": "I’d like to confirm what is required for an outpatient claim."}
+{"en_query": "I’d like to check if the insurance policy is needed for an outpatient claim."}
+{"en_query": "I’d like to confirm if a medical certificate is required for an outpatient claim."}
+{"en_query": "I’d like to confirm if a copy of the receipt is required for an outpatient claim."}
+{"en_query": "What documents are required to file an outpatient claim?"}
+{"en_query": "Is a medical certificate required every time I file a claim for outpatient benefits?"}
+{"en_query": "For an outpatient claim, is there anything else I need?"}
+{"en_query": "I visited the hospital for outpatient treatment; what do I need to submit?"}
+{"en_query": "I am preparing a claim because I visited the hospital several times due to an injury. Please tell me what is required."}
+{"en_query": "I only received a receipt from the hospital, not a medical certificate. Can I proceed with that?"}
+{"en_query": "I would like to gather all the documents needed for an outpatient claim."}
+{"en_query": "I don't have my insurance policy on hand; can I still file a claim for outpatient treatment?"}
+{"en_query": "Please tell me what is needed for an outpatient claim."}
+{"en_query": "Required documents for outpatient treatment."}
+{"en_query": "Excuse me, this is about the attachments for an outpatient claim."}
+{"en_query": "For an outpatient claim, do I also need the policy and other documents?"}
+{"en_query": "I had outpatient treatment, so I'd like to ask about the documents."}
+{"en_query": "Could you please let me know the required documents for filing an outpatient benefit claim?"}
+{"en_query": "What documents should I prepare to file an outpatient claim?"}
+{"en_query": "I would like to check the status of my outpatient claim procedure."}
+{"en_query": "I would like to confirm whether my outpatient claim has been submitted."}
+{"en_query": "I submitted the outpatient documents and would like to confirm if they have been received."}
+{"en_query": "I submitted the documents for outpatient treatment and would like to confirm if the process is complete."}
+{"en_query": "I want to confirm when the payment for outpatient treatment will be transferred."}
+{"en_query": "Please tell me the status of my outpatient claim process."}
+{"en_query": "Have the outpatient documents I submitted been received?"}
+{"en_query": "When will the payment for outpatient treatment be transferred?"}
+{"en_query": "What is the current status of my outpatient claim and procedures?"}
+{"en_query": "I sent my outpatient receipt the other day; could you tell me the status since then?"}
+{"en_query": "I'm calling to check on the outpatient benefit I requested previously."}
+{"en_query": "I'd like to know the scheduled transfer date for my outpatient benefit."}
+{"en_query": "I’d like to check how far my outpatient claim has progressed."}
+{"en_query": "Regarding the status of my outpatient claim..."}
+{"en_query": "What is the update on my outpatient treatment?"}
+{"en_query": "Status of the outpatient payment."}
+{"en_query": "I submitted the outpatient documents—what happened after that?"}
+{"en_query": "I’d like to know when the outpatient payment will be deposited."}
+{"en_query": "Could you please provide an update on the status of my outpatient benefit claim?"}
+{"en_query": "I would like to ask about the scheduled payment date for the outpatient benefit."}
+{"en_query": "I would like to confirm how to fill out the outpatient documents."}
+{"en_query": "I would like to confirm how to complete the outpatient documents."}
+{"en_query": "I would like to confirm how I should fill out the outpatient documents."}
+{"en_query": "I don't know how to fill out the outpatient claim form."}
+{"en_query": "I don't know how to complete the outpatient claim form."}
+{"en_query": "Please tell me how to fill out the outpatient claim form."}
+{"en_query": "I have a few questions about how to fill out this outpatient document."}
+{"en_query": "What should I write in this section of the outpatient claim form?"}
+{"en_query": "For the outpatient visit date section, is it okay to use the date on the receipt?"}
+{"en_query": "There are some parts I don't understand about how to fill out the outpatient documents."}
+{"en_query": "I'm currently filling out the outpatient documents that were mailed to me, but I'm having some trouble."}
+{"en_query": "I got stuck while filling out the outpatient claim form."}
+{"en_query": "I made a mistake—can I use correction fluid to fix it?"}
+{"en_query": "Are there any sample forms or examples for outpatient documents?"}
+{"en_query": "[hesitation] Regarding how to fill out the outpatient claim form..."}
+{"en_query": "How should I fill out the outpatient documents?"}
+{"en_query": "For this section of the outpatient document, [hesitation] what should I write here?"}
+{"en_query": "Filling out the outpatient claim form."}
+{"en_query": "Could you please explain how to fill out the outpatient benefit claim form?"}
+{"en_query": "I’d like to confirm if I can file a claim for outpatient treatment."}
+{"en_query": "I received outpatient treatment and want to confirm if I can file a claim."}
+{"en_query": "I will be receiving outpatient treatment and want to confirm if I can file a claim."}
+{"en_query": "I want to confirm if outpatient benefits are available."}
+{"en_query": "I’d like to confirm if outpatient treatment is covered."}
+{"en_query": "Can I file a benefit claim for this outpatient treatment?"}
+{"en_query": "With my insurance, is this outpatient treatment covered?"}
+{"en_query": "I had outpatient treatment—can I submit a claim?"}
+{"en_query": "Does this insurance pay benefits for outpatient treatment?"}
+{"en_query": "Under what circumstances can I claim outpatient benefits?"}
+{"en_query": "Is outpatient treatment for an injury also eligible for a claim?"}
+{"en_query": "I recently visited the hospital for a cold and would like to confirm if my insurance applies."}
+{"en_query": "I am visiting the hospital for follow-up after surgery and wanted to check in advance if I can file a claim."}
+{"en_query": "It was a minor injury, but I went to the hospital—can I still make a claim for that?"}
+{"en_query": "I visited the dentist; is this covered?"}
+{"en_query": "I went to the hospital for a broken bone until the cast was removed—can I receive a payout?"}
+{"en_query": "[hesitation] I had outpatient visits; can I file a claim?"}
+{"en_query": "Will I receive a payout for outpatient treatment?"}
+{"en_query": "For my recent outpatient visit, is it covered by insurance?"}
+{"en_query": "Can I file a claim for outpatient treatment?"}
+{"en_query": "Excuse me, I’d like to know if outpatient benefits apply."}
+{"en_query": "I had outpatient treatment and want to know if I can file a claim."}
+{"en_query": "Regarding outpatient treatment."}
+{"en_query": "Please confirm whether I can file a claim for my recent outpatient treatment."}
+{"en_query": "I would like to ask if it is possible to file a claim for future outpatient visits."}
+{"en_query": "Could you please let me know if this policy covers the outpatient visits in question?"}
+{"en_query": "I would like to confirm whether outpatient benefits are payable."}
+{"en_query": "I would like to ask if outpatient visits due to a specific illness or injury are eligible for benefits."}
+{"en_query": "I would like to confirm whether the claim for outpatient visits has been processed."}
+{"en_query": "I would like to confirm whether my previous outpatient visit has already been claimed."}
+{"en_query": "I want to check if the outpatient procedure is being processed."}
+{"en_query": "Please provide the history of my past outpatient claims."}
+{"en_query": "Has the outpatient visit from last autumn already been claimed?"}
+{"en_query": "I would like to confirm whether I received a benefit payment for a previous outpatient visit."}
+{"en_query": "Can you check the payment history for my outpatient benefits?"}
+{"en_query": "How many times have I filed outpatient claims in the past?"}
+{"en_query": "This is regarding outpatient treatment for an injury two years ago—has a claim been filed for it?"}
+{"en_query": "I had outpatient treatment quite a while ago, but I can't remember if I filed a claim."}
+{"en_query": "I want to make sure I haven't missed any claims, so could you check my past outpatient treatment history?"}
+{"en_query": "I believe I went to the hospital several times, and I’d like to know if I completed all the procedures."}
+{"en_query": "My family asked me, “Did you file a claim for that visit?” but my memory is unclear."}
+{"en_query": "Please let me confirm whether the claim for my last hospital visit was processed properly."}
+{"en_query": "[hesitation] It’s about the claim history for my previous hospital visit."}
+{"en_query": "Did I file a claim for last year’s hospital visit?"}
+{"en_query": "Outpatient claim history."}
+{"en_query": "Was the outpatient visit from a few months ago already claimed?"}
+{"en_query": "Excuse me, this is about an outpatient visit from the past."}
+{"en_query": "Please check if the previous outpatient visit has been processed."}
+{"en_query": "Outpatient history."}
+{"en_query": "Could you please check the claim history for past outpatient benefits?"}
+{"en_query": "I would like to ask whether the claim process for my previous outpatient visit has been completed."}
+{"en_query": "I would like to confirm whether there were any claims related to outpatient visits from several years ago."}
+{"en_query": "Please provide the payment history for past outpatient benefits listed in my insured records."}
+{"en_query": "I would like to confirm how to file a death claim."}
+{"en_query": "I would like to confirm how to file a death claim."}
+{"en_query": "I would like to confirm the procedure for filing a death claim."}
+{"en_query": "I would like to confirm if I can file a death claim by phone."}
+{"en_query": "I would like to confirm if I can file a death claim online."}
+{"en_query": "I would like to confirm if I can file a death claim on the internet."}
+{"en_query": "Could you tell me how to file a claim for a death benefit?"}
+{"en_query": "I would like to file a claim for a death benefit; what should I do?"}
+{"en_query": "Can I file a death claim online?"}
+{"en_query": "I would like to know about the procedures for claiming a death benefit."}
+{"en_query": "Can I file a death claim by phone?"}
+{"en_query": "What is the process for filing an insurance claim?"}
+{"en_query": "My husband passed away recently, and I would like to ask about the insurance claim procedure."}
+{"en_query": "My father has passed away, and I would like to begin preparing for the claim."}
+{"en_query": "A family member has passed away, so I would like to file a death benefit claim."}
+{"en_query": "I would like to file a claim, so could you send me the documents for a death claim?"}
+{"en_query": "I need to file a claim for my mother's insurance."}
+{"en_query": "[hesitation] My husband passed away, so I'd like to file a claim."}
+{"en_query": "Excuse me, this is regarding a death benefit claim."}
+{"en_query": "Please tell me how to file a death claim."}
+{"en_query": "Can I complete the procedure online?"}
+{"en_query": "This is regarding a claim for a death benefit."}
+{"en_query": "My husband has passed away, and I would like to file a claim for the benefit."}
+{"en_query": "I would like to start the process for claiming the death benefit. Could you please explain the procedure?"}
+{"en_query": "Please explain how to proceed with the claim for the deceased’s insurance benefit."}
+{"en_query": "I am calling to file an insurance claim due to a family member’s passing."}
+{"en_query": "I would like to ask about the procedure for claiming a death benefit."}
+{"en_query": "As an heir, how should I proceed with the claim process?"}
+{"en_query": "I would like to review the documents required for a death claim."}
+{"en_query": "I want to confirm the documents needed for a death claim."}
+{"en_query": "I want to check the documents to attach for a death claim."}
+{"en_query": "I would like to confirm what is required for a death claim."}
+{"en_query": "I would like to confirm if the insurance policy is needed for a death claim."}
+{"en_query": "I would like to confirm if a medical certificate is needed for a death claim."}
+{"en_query": "I would like to confirm if a copy of the receipt is needed for a death claim."}
+{"en_query": "What documents are required to file a death benefit claim?"}
+{"en_query": "Is a death certificate required for the death claim procedure?"}
+{"en_query": "Do I need to submit the original insurance policy of the deceased?"}
+{"en_query": "What documents do I need to send when claiming the death benefit?"}
+{"en_query": "Is a family register (koseki tohon) or similar document also required?"}
+{"en_query": "Please tell me about the complete set of documents needed for a death claim."}
+{"en_query": "My father has passed away and I am preparing to file a claim. Please tell me what documents are required."}
+{"en_query": "I can't find the deceased's insurance policy. Can I still proceed with the process?"}
+{"en_query": "I would like to proceed with the death benefit claim and need to confirm which documents to attach."}
+{"en_query": "I want to know if I need to obtain a death certificate."}
+{"en_query": "I want to gather everything needed for the claim."}
+{"en_query": "Besides the invoice, is there anything else I need?"}
+{"en_query": "[hesitation] Regarding the documents for a death claim."}
+{"en_query": "Please tell me what is required for a death claim."}
+{"en_query": "I need a death certificate, correct?"}
+{"en_query": "Required documents for the death benefit."}
+{"en_query": "Excuse me, this is about the required documents for a death claim."}
+{"en_query": "I need to send the policy, correct?"}
+{"en_query": "For a death claim, do I also need the family register?"}
+{"en_query": "Could you please provide the complete list of documents required for a death benefit claim?"}
+{"en_query": "I would like to ask about alternative documents needed if the deceased’s insurance policy has been lost."}
+{"en_query": "Is it mandatory to submit a copy of the death certificate?"}
+{"en_query": "I am making a claim as an heir; do I also need to provide my identification documents?"}
+{"en_query": "I would like to check the status of the death claim procedure."}
+{"en_query": "I would like to confirm whether the death claim has been submitted."}
+{"en_query": "I submitted the documents for the death claim and would like to confirm if they have been received."}
+{"en_query": "I submitted the documents for a death claim and would like to confirm if the process is complete."}
+{"en_query": "I would like to confirm when the death benefit will be transferred."}
+{"en_query": "Could you tell me the status of the death benefit claim process?"}
+{"en_query": "Have the death claim documents I submitted been received?"}
+{"en_query": "Has the insurance benefit process been completed?"}
+{"en_query": "When will the death benefit be deposited?"}
+{"en_query": "I would like to know the status of my claim."}
+{"en_query": "What is the current status of the procedure?"}
+{"en_query": "I recently sent the claim documents regarding my father; could you update me on the status?"}
+{"en_query": "I was wondering about the death benefit I requested the other day—could you tell me the status?"}
+{"en_query": "It has been some time since I sent the documents; has the process not been completed yet?"}
+{"en_query": "I am calling to ask about the scheduled date for the insurance payout."}
+{"en_query": "I would like to confirm whether my claim has been properly received."}
+{"en_query": "I would like to check the status of the death claim process."}
+{"en_query": "[hesitation] Regarding the progress of my father's death benefit..."}
+{"en_query": "What is the status regarding my husband who recently passed away?"}
+{"en_query": "Have you received the documents?"}
+{"en_query": "Status of the death benefit payment."}
+{"en_query": "When will the insurance payout be made?"}
+{"en_query": "I submitted the documents for my mother's death claim—what is the status after that?"}
+{"en_query": "I'd like to know when the insurance payout will be deposited."}
+{"en_query": "Could you please provide an update on the status of the death benefit claim?"}
+{"en_query": "I would like to ask about the scheduled date for the insurance payout."}
+{"en_query": "Please confirm whether the claim processing for the deceased has been completed."}
+{"en_query": "I would like to check how to fill out the death claim documents."}
+{"en_query": "I would like to confirm how to fill out the death claim documents."}
+{"en_query": "I want to confirm how I should complete the death claim documents."}
+{"en_query": "I don't know how to fill out the death claim form."}
+{"en_query": "I don't know how to complete the death claim form."}
+{"en_query": "Could you please explain how to fill out the death benefit claim form?"}
+{"en_query": "I have some questions about how to fill out these death claim documents."}
+{"en_query": "What should I write in this section of the claim form?"}
+{"en_query": "For the date of death section, should I use the date on the medical certificate?"}
+{"en_query": "I don't know how to write the beneficiary's account name."}
+{"en_query": "There are parts I don't understand about how to fill out the death claim documents."}
+{"en_query": "I am currently filling out the death claim documents you sent the other day, but I am having some trouble."}
+{"en_query": "I got stuck while filling out the claim form."}
+{"en_query": "I made a mistake when writing—do I need a correction stamp?"}
+{"en_query": "For the section about my relationship to the deceased, could you tell me how I should fill it out?"}
+{"en_query": "Are there any sample forms or examples for completing the death claim documents?"}
+{"en_query": "Regarding how to fill out the death benefit claim form..."}
+{"en_query": "How should I complete the documents for my father's death claim?"}
+{"en_query": "I have a question about how to fill out the form."}
+{"en_query": "For this part of the death claim form, what should I write here?"}
+{"en_query": "I don't know how to fill it out."}
+{"en_query": "Filling out the death benefit claim form."}
+{"en_query": "Could you please explain how to fill out the death benefit claim documents?"}
+{"en_query": "If I sign as the beneficiary, do I need to fill in the relationship section?"}
+{"en_query": "I’d like to confirm if I can file a death claim."}
+{"en_query": "I’d like to confirm if I can file a claim due to a death."}
+{"en_query": "I’d like to confirm if a claim can be made due to death."}
+{"en_query": "I’d like to confirm if a death benefit is available."}
+{"en_query": "I’d like to confirm if the death benefit will be paid."}
+{"en_query": "Can I file a claim for the death benefit?"}
+{"en_query": "Will the death benefit be paid under my husband’s insurance?"}
+{"en_query": "My father has passed away. Is it possible to file a claim?"}
+{"en_query": "Does this insurance pay out in the event of death?"}
+{"en_query": "Under what circumstances can I claim the death benefit?"}
+{"en_query": "If the death was due to illness, is it still eligible for a claim?"}
+{"en_query": "My husband passed away recently, and I would like to confirm if the insurance can be used."}
+{"en_query": "I found the deceased’s insurance policy and wanted to check in advance if I can file a claim."}
+{"en_query": "The policyholder has passed away—can a claim be made on this insurance?"}
+{"en_query": "I have a death certificate from the hospital; does this qualify for a benefit payment?"}
+{"en_query": "The death was due to an accident—will the insurance pay out?"}
+{"en_query": "[hesitation] My father passed away—can I file a claim?"}
+{"en_query": "Will the death benefit be paid?"}
+{"en_query": "Regarding my husband’s recent case, will the insurance pay out?"}
+{"en_query": "I’d like to know if I can file a death claim."}
+{"en_query": "Excuse me, I’d like to know if this qualifies for a death benefit."}
+{"en_query": "My family member passed away, so I want to know if I can file a claim."}
+{"en_query": "Regarding the death."}
+{"en_query": "Please confirm whether it is possible to file an insurance claim for the recent passing."}
+{"en_query": "I would like to ask if it is possible to file a claim for the deceased’s policy."}
+{"en_query": "Could you let me know if this policy covers the current death?"}
+{"en_query": "I would like to confirm whether this qualifies for a death benefit payment."}
+{"en_query": "I would like to ask if a specific cause of death is covered by the benefit."}
+{"en_query": "I want to confirm whether the death claim has been completed."}
+{"en_query": "I want to check if the death procedure is in progress."}
+{"en_query": "Please provide the claim history for past death benefits."}
+{"en_query": "Has the claim been completed for my father who passed away last winter?"}
+{"en_query": "I would like to confirm whether the procedures regarding my mother's previous death have been completed."}
+{"en_query": "Can you check the past death benefit payment history for my family?"}
+{"en_query": "Is there a record of an insurance payout for my grandmother?"}
+{"en_query": "This is about my husband who passed away five years ago—has a claim been filed for his insurance?"}
+{"en_query": "This is regarding my father who passed away quite some time ago, but I can't remember if a claim was made."}
+{"en_query": "I would like to confirm that there are no missed claims, so could you check the history of past death claims?"}
+{"en_query": "While sorting through belongings, I found an insurance policy—has this already been processed?"}
+{"en_query": "My family asked, \"Did you file a claim for that matter back then?\" but my memory is unclear."}
+{"en_query": "Please let me confirm whether the claim for my father's previous death was properly processed."}
+{"en_query": "[hesitation] Regarding the previous claim history for my father's death."}
+{"en_query": "Regarding my mother last year, I’m not sure if I submitted a claim…"}
+{"en_query": "Claim history for death benefits."}
+{"en_query": "About my husband who passed away a few years ago—was a claim already submitted?"}
+{"en_query": "Excuse me, this is about an old death claim."}
+{"en_query": "I’d like you to check if the procedures were completed for a family member who passed away previously."}
+{"en_query": "History of death benefit payments."}
+{"en_query": "Could you please check the claim history for past death benefits?"}
+{"en_query": "I would like to ask whether the claim process regarding my father's previous passing has been completed."}
+{"en_query": "I would like to confirm whether there were any claims related to a family member who passed away several years ago."}
+{"en_query": "Please provide the payment history of death benefits listed in the deceased insured person's records."}
