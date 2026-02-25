@@ -1,0 +1,51 @@
+Here are the English translations of the Japanese queries:
+
+1.  Can a family member complete the procedure to change the contract details on my behalf?
+2.  What is the family registration system?
+3.  Is there a way for my family to confirm the contract details over the phone on my behalf as the contract holder?
+4.  This is a corporate contract. Can I take out a policy loan by phone or through the contract holder's web service?
+5.  Can I apply for a policy loan online?
+6.  Can I apply for policy loans consecutively by phone and through the contract holder's web service?
+7.  What products are eligible for policy loans through the contract holder's web service?
+8.  How do I add a policy number to my contract holder's web service account?
+9.  What is the contract holder's web service ID?
+10. I want to delete my contract holder's web service ID. How do I do that?
+11. Can you tell me how to change the ID (email address) I registered with the contract holder's web service?
+12. When I click the "Details" button in the contract holder's web service, the message "Details cannot be displayed for this contract due to the contract status, etc. We apologize for the inconvenience, but please contact our inquiry center." is displayed, and I cannot see the details of the contract.
+13. Can I check the cancellation refund amount in the contract holder's web service?
+14. Even if I press "See Details" on the Contract Holder WEB Service, I cannot refer to the contract details inquiry for lump-sum payment type insurance and variable individual annuity insurance that I have been able to refer to in the past.
+15. A family member who is already registered has changed their name (due to marriage or other reasons). Can I process the name change for my family member in the contract holder's web service?
+16. I want to change the information of a family member registered in "Family Information Registration". What should I do?
+17. I want to delete a registered family member's information. Can I delete a registered family member in the contract holder's web service?
+18. Has the internet service been discontinued?
+19. Are there any contracts that cannot be registered with the contract holder's web service?
+20. I changed my address in the contract holder's web service. When will the change be reflected?
+21. Can I complete a name change procedure in the contract holder's web service?
+22. Can I complete a beneficiary change procedure in the contract holder's web service?
+23. Can I take out a policy loan in the contract holder's web service?
+24. Can I repay a policy loan in the contract holder's web service?
+25. Can I apply for a loan on my foreign currency denominated insurance policy through the contract holder's web service?
+26. What services are available through the contract holder's web service?
+27. Can I file a claim for benefits through the contract holder's web service?
+28. Is the contract holder's web service available to everyone?
+29. Is there a fee to use the contract holder's web service?
+30. Is the contract holder's web service available at all times?
+31. Can I continue to use the contract holder's web service even if the contract holder changes?
+32. Is the contract holder's web service available for corporate contracts?
+33. Please tell me how to register a policy number in the contract holder's web service.
+34. I cannot inquire about my contract details in the contract holder's web service.
+35. What are the product-attached services?
+36. Please tell me about the web registration campaign.
+37. What services are available online?
+38. When I log in to the contract holder's web service, the message "This service is currently unavailable" is displayed. What should I do?
+39. I want to use the contract holder's web service. How do I do that?
+40. When using the contract holder's web service, the terms and conditions are displayed, but I cannot press the "Agree and proceed" button.
+41. Can a family member act as an agent for using the contract holder's web service?
+42. What are the recommended system requirements for the contract holder's web service?
+43. Please tell me how to register for the family registration system.
+44. I would like to use the product-attached services. Can you tell me the contact information?
+45. If the contract holder is a minor, can I file a claim for benefits online?
+46. If the contract holder is a corporation, can I file a claim for benefits online?
+47. The contract holder's web service screen loads slowly, and it takes a long time to switch to the next screen. Is there anything I can do?
+48. Can family members use the same email address (ID) to register for a contract holder's web service ID?
+

@@ -1,0 +1,58 @@
+﻿Okay, I have analyzed the provided user queries and propose the following 10 broader intent categories to cover all scenarios:
+
+1.  **POLICY_INQUIRY:** This category encompasses questions regarding policy details, coverage, terms, and conditions. It includes general inquiries about what a policy covers, how it works, and understanding specific clauses or features.
+    *   Example Queries:
+        *   ガン保険に加入しています。悪性新生物と上皮内新生物の違いは何ですか。
+        *   指定代理請求特則とは何ですか？
+
+2.  **DOCUMENT_REQUEST:** This category handles requests for policy documents, tax forms (like life insurance premium deduction certificates), and other official paperwork. This includes requesting new, duplicate, or historical documents.
+    *   Example Queries:
+        *   生命保険料控除証明書を紛失しました。再発行はできますか。
+        *   約款を紛失しました。再発行できますか。
+
+3.  **WEB_PORTAL_ASSISTANCE:** This covers issues and questions related to the online customer portal (ご契約者さまWEBサービス), including login problems, registration difficulties, feature usage, and general navigation.
+    *   Example Queries:
+        *   ワンタイムパスワード認証の登録ができずログインできません。
+        *   ご契約者さまWEBサービスで住所変更したのですが、いつ反映されますか？
+
+4.  **MANAGE_POLICY_DETAILS:** This focuses on making changes to existing policies, such as address updates, beneficiary changes, name changes, or other personal information updates.
+    *   Example Queries:
+        *   ご契約者さまWEBサービスから住所変更したのですが、いつ反映されますか？
+        *   保険金・給付金の受取人は変更できますか。
+        *   離婚しました。必要な手続きを教えてください。
+
+5.  **PAYMENT_INQUIRY_AND_MANAGEMENT:** This covers questions about premium payments, including payment methods, due dates, bank account changes, payment failures, and inquiries about premium deductions.
+    *   Example Queries:
+        *   保険料が口座から引き落とせる日は毎月何日ですか？
+        *   保険料の払込回数を変更したいです。（月払から半年払、年払など）
+        *   保険料の支払いを忘れていました。どうすればよいですか。
+
+6.  **CLAIM_SUBMISSION_AND_STATUS:** This deals with initiating a claim, understanding the claim process, required documents, and checking on the status of a submitted claim.
+    *   Example Queries:
+        *   入院や手術、通院をしました。どのような書類を用意する必要がありますか。
+        *   保険金・給付金はいつ支払われるのでしょうか。
+        *   入院中の被保険者に代わって、家族が給付金の請求をすることができますか。
+
+7.  **LOAN_SERVICES:** This category encompasses all queries related to policy loans, including eligibility, loan amounts, repayment options, interest rates, and related processes.
+    *   Example Queries:
+        *   契約者貸付サービスの利用にあたって注意することはありますか。
+        *   貸付で利用できる金額を確認したいのですが、どうすればいいですか。
+        *   契約者貸付の返済方法を教えてください。
+
+8.  **CONTRACT_TERMINATION_AND_REINSTATEMENT:** This category covers inquiries about cancelling a policy (解約), including procedures, surrender values, and the possibility of reinstating a lapsed policy.
+    *   Example Queries:
+        *   保険を解約するにはどのような手続きが必要ですか。
+        *   解約しました。解約する前に入院（手術）していましたが、給付金は支払われますか。
+        *   契約を復活したいです。どうすればよいですか。
+
+9.  **PRODUCT_INFORMATION:** This category includes requests for information about different insurance products offered by the company.
+     *   Example Queries:
+        *   加入している保険の見直相談をしたいです。
+        *   保険の加入を検討中です。商品について教えてください。
+        *    リビング・ニーズ特約とは何ですか。
+
+10. **ACCOUNT_MANAGEMENT:** This covers general account-related tasks and questions that don't fall neatly into the other categories, such as updating contact preferences, family registration, and MyNumber registration.
+    *   Example Queries:
+        *   家族を登録した後、何か通知は送られてきますか？
+        *   マイナンバーをメットライフに申告しないとどうなりますか。
+        *   ご家族登録制度とは何ですか。
