@@ -691,7 +691,7 @@ def cmd_export(args):
     all_preds_bin = clf.predict(embeddings)
     all_preds_probs = clf.predict_proba(embeddings)
 
-    out_path = args.output or "labeled-intents.jsonl"
+    out_path = args.output or "data/labeled-intents.jsonl"
     corrected_count = 0
     with open(out_path, "w", encoding="utf-8-sig") as f:
         for i, u in enumerate(utterances):
@@ -757,14 +757,14 @@ def main():
     sub = parser.add_subparsers(dest="cmd")
 
     p_boot = sub.add_parser("bootstrap", help="Phase 1: cluster + LLM → taxonomy_v1")
-    p_boot.add_argument("--input", default="train-raw.jsonl", help="Input JSONL file")
+    p_boot.add_argument("--input", default="data/train-raw.jsonl", help="Input JSONL file")
 
     p_loop = sub.add_parser("loop", help="Phase 2: active learning iterations")
 
     p_stat = sub.add_parser("status", help="Show quality metrics")
 
     p_exp = sub.add_parser("export", help="Export labeled dataset")
-    p_exp.add_argument("--output", default="labeled-intents.jsonl", help="Output file")
+    p_exp.add_argument("--output", default="data/labeled-intents.jsonl", help="Output file")
 
     args = parser.parse_args()
     if args.cmd == "bootstrap":

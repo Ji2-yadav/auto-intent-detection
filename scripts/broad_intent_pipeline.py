@@ -38,10 +38,10 @@ def main():
     client = genai.Client(api_key=GEMINI_API_KEY)
     
     # 1. Load Data
-    print("Step 1: Loading unique utterances from train-main.jsonl...")
+    print("Step 1: Loading unique utterances from data/train-main.jsonl...")
     utterances = []
     seen = set()
-    with open("train-main.jsonl", "r", encoding="utf-8-sig") as f:
+    with open("data/train-main.jsonl", "r", encoding="utf-8-sig") as f:
         for line in f:
             if not line.strip(): continue
             try:
@@ -181,7 +181,7 @@ Output ONLY the category name. No explanations.
         print(f"    - {b_intent} ({count} items)")
         
     # Save output
-    out_file = "broad-labeled-intents.jsonl"
+    out_file = "data/broad-labeled-intents.jsonl"
     with open(out_file, "w", encoding="utf-8-sig") as f:
         for i, text in enumerate(utterances):
             rec = {
@@ -215,7 +215,7 @@ Output ONLY the category name. No explanations.
     plt.legend(bbox_to_anchor=(1.05, 1), loc='upper left', fontsize=10)
     plt.title("t-SNE Visualization of Broad Intent Clusters", fontsize=18)
     plt.tight_layout()
-    plot_file = "broad_tsne_clusters.png"
+    plot_file = "visualizations/broad_tsne_clusters.png"
     plt.savefig(plot_file, dpi=300)
     print(f"✅ Saved plot to {plot_file}")
 

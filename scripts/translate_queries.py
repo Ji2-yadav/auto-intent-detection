@@ -5,7 +5,7 @@ GEMINI_API_KEY = "AIzaSyDuxrBFwZt5el0WYuMtSQbO5dGvTx-zq8E"
 client = genai.Client(api_key=GEMINI_API_KEY)
 
 queries = []
-with open("broad-labeled-intents.jsonl", "r", encoding="utf-8-sig") as f:
+with open("data/broad-labeled-intents.jsonl", "r", encoding="utf-8-sig") as f:
     for line in f:
         data = json.loads(line)
         if data["broad_intent"] == "WEB_SERVICE_INQUIRY":
