@@ -32,7 +32,6 @@ env.bak/
 venv.bak/
 
 # Data and models
-data/*
 *.npy
 *.index
 *.pkl
