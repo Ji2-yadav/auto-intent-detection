@@ -15,6 +15,9 @@ import numpy as np
 import faiss
 from pathlib import Path
 from datetime import datetime, timezone
+from dotenv import load_dotenv, find_dotenv
+
+load_dotenv(find_dotenv(), override=True)
 
 # ── ML imports ──
 from sklearn.feature_extraction.text import TfidfVectorizer
@@ -29,8 +32,10 @@ import hdbscan
 from google import genai
 
 # ── Config ──────────────────────────────────────────────────────────────
-GEMINI_API_KEY = "AIzaSyASB0cWLjkUVoOhMWhYFcCdxiNWloQ_EzY"
-GEMINI_MODELS  = ["gemini-2.0-flash", "gemma-3-27b-it", "gemini-2.5-flash-lite"]
+GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
+if not GEMINI_API_KEY:
+    raise ValueError("GEMINI_API_KEY is missing from environment variables or .env file.")
+GEMINI_MODELS  = ["gemini-flash-latest", "gemini-flash-lite-latest"]
 _current_model_idx = 0
 EMBED_MODEL    = "paraphrase-multilingual-MiniLM-L12-v2"
 DATA_DIR       = Path("data")
@@ -178,8 +183,8 @@ def cmd_bootstrap(args):
             + "\n".join(parts) + "\n\n"
             "Reply in this exact format, one line per cluster:\n"
             "Cluster <id>: <INTENT_1>, <INTENT_2>, ...\n"
-            "Use UPPER_SNAKE_CASE labels. Make the intents EXTREMELY granular and specific (e.g., VIEW_LIFE_INSURANCE_PREMIUM_CERTIFICATE instead of just VIEW_POLICY_DETAILS).\n"
-            "Do not group distinct but related questions into broad intents; create distinct, detailed intents for each specific scenario."
+            "Use UPPER_SNAKE_CASE labels. Make the intents BROAD and HIGH-LEVEL. Group related questions into general intents (e.g., use VIEW_POLICY_DETAILS instead of VIEW_LIFE_INSURANCE_PREMIUM_CERTIFICATE).\n"
+            "Avoid overly granular intents. Combine distinct but similar scenarios under the same broad intent."
         )
         raw = gemini_call(client, prompt)
         if raw:
@@ -225,10 +230,9 @@ def cmd_bootstrap(args):
             "Below is a list of proposed intent labels from our automated pipeline:\n\n"
             f"{intent_list}\n\n"
             "Merge any duplicates or near-synonyms into a single canonical label.\n"
-            "PAY ATTENTION TO THESE DISTINCTIONS:\n"
-            "- Ensure the intents remain highly granular and specific (e.g., KEEP 'VIEW_LIFE_INSURANCE_PREMIUM_CERTIFICATE' and 'VIEW_PENSION_CERTIFICATE' separate rather than merging them into 'VIEW_DOCUMENT').\n"
-            "- Ensure 'Claim Status' vs 'File Claim' are kept separate (e.g., CHECK_CLAIM_STATUS vs INITIATE_CLAIM).\n"
-            "- Ensure 'Premium Payment' vs 'Payment History' are kept separate.\n\n"
+            "PAY ATTENTION TO THESE INSTRUCTIONS:\n"
+            "- Ensure the intents are broad and general. Merge highly granular intents (e.g., MERGE 'VIEW_LIFE_INSURANCE_PREMIUM_CERTIFICATE' and 'VIEW_PENSION_CERTIFICATE' into a single 'VIEW_DOCUMENT' intent).\n"
+            "- Group related intents where possible, minimizing the total number of distinct labels.\n\n"
             "Reply with ONLY a JSON object mapping old→new labels, e.g.:\n"
             '{"SUBMIT_CLAIM": "INITIATE_CLAIM", "FILE_NEW_CLAIM": "INITIATE_CLAIM", ...}\n'
             "Include ALL labels. If a label is already canonical, map it to itself."
@@ -263,10 +267,7 @@ def cmd_bootstrap(args):
     tax_data = {
         "version": 1,
         "created_at": datetime.now(timezone.utc).isoformat(),
-        "intents": {
-            name: {"label_path": name.lower().replace("_", "/"), "definition": ""}
-            for name in sorted(final_intents)
-        }
+        "intents": sorted(final_intents)
     }
     tax_path = DATA_DIR / "taxonomy_v1.json"
     with open(tax_path, "w") as f:
@@ -334,7 +335,7 @@ def load_state():
 
 def train_classifier(embeddings, annotations, taxonomy):
     """Train multi-label logistic regression on embeddings."""
-    all_intents = sorted(taxonomy["intents"].keys())
+    all_intents = sorted(taxonomy["intents"])
     mlb = MultiLabelBinarizer(classes=all_intents)
 
     # Gather labeled data (exclude UNCATEGORIZED with low confidence)
@@ -444,7 +445,7 @@ def score_pool(embeddings, index, annotations, clf, mlb, taxonomy):
 
 def llm_label_and_review(client, utterances, batch_uids, taxonomy):
     """LLM labels batch with top-3 + rationale, then self-reviews."""
-    intent_list = ", ".join(sorted(taxonomy["intents"].keys()))
+    intent_list = ", ".join(sorted(taxonomy["intents"]))
     results = {}
 
     # Process in sub-batches of 5 for manageable prompts
@@ -459,11 +460,10 @@ def llm_label_and_review(client, utterances, batch_uids, taxonomy):
             "You are an expert NLU data labeler for an insurance company.\n"
             f"Available intents: {intent_list}\n"
             "If no intent fits perfectly, DO NOT use UNCATEGORIZED.\n"
-            "Instead, set needs_new_intent=true and propose a specific, highly granular new intent.\n\n"
-            "CRITICAL DISTINCTIONS TO WATCH FOR:\n"
-            "1. Intents must be extremely and specifically detailed (e.g. QUERY_HEALTH_CELEBRATION_BONUS instead of a broad INQUIRE_POLICY_BENEFIT).\n"
-            "2. Claim Filing vs Status: 'I want to report an accident' is INITIATE_CLAIM. 'Where is my claim check' is CHECK_CLAIM_STATUS.\n"
-            "3. Beneficiary Changes vs Personal Info: Updating who gets the money is UPDATE_BENEFICIARY. Changing an address is UPDATE_ACCOUNT_DETAILS.\n\n"
+            "Instead, set needs_new_intent=true and propose a broad, generalized new intent.\n\n"
+            "CRITICAL INSTRUCTIONS TO WATCH FOR:\n"
+            "1. Intents must be broad and generalized (e.g. use a broad INQUIRE_POLICY_BENEFIT instead of QUERY_HEALTH_CELEBRATION_BONUS).\n"
+            "2. Group similar requests into high-level categories to avoid having too many granular intents.\n\n"
             "For each query below, assign 1-3 intent labels (multi-label if needed).\n"
             "NEVER return 'UNCATEGORIZED' as a label. Always pick the closest match or propose a new one.\n\n"
             f"{items}\n\n"
@@ -557,10 +557,8 @@ def cmd_loop(args):
         if new_intents:
             print(f"  📌 New intents proposed: {', '.join(new_intents)}")
             for intent in new_intents:
-                taxonomy["intents"][intent] = {
-                    "label_path": intent.lower().replace("_", "/"),
-                    "definition": f"Auto-discovered in iteration {iteration}",
-                }
+                taxonomy["intents"].append(intent)
+            taxonomy["intents"].sort()
             # Save updated taxonomy
             new_version = taxonomy["version"] + 1
             taxonomy["version"] = new_version
@@ -757,7 +755,7 @@ def main():
     sub = parser.add_subparsers(dest="cmd")
 
     p_boot = sub.add_parser("bootstrap", help="Phase 1: cluster + LLM → taxonomy_v1")
-    p_boot.add_argument("--input", default="data/train-raw.jsonl", help="Input JSONL file")
+    p_boot.add_argument("--input", default="data/data-japanese-361.jsonl", help="Input JSONL file")
 
     p_loop = sub.add_parser("loop", help="Phase 2: active learning iterations")
 
