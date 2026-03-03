@@ -32,17 +32,18 @@ env.bak/
 venv.bak/
 
 # Data and models
-data/
+data/*
 *.npy
 *.index
 *.pkl
 *.jsonl
 *.csv
 
+!data/labeled-intents.jsonl
+
 # Ignore specific large data sets that should not be committed
 raw_data.csv
 main.csv
 train-raw.jsonl
 train-main.jsonl
-labeled-intents.jsonl
 main_labeled_intents.jsonl

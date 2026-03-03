@@ -1,0 +1,361 @@
+﻿{"en_query": "生命保険料控除制度とは何ですか。", "predicted_intents": ["INQUIRE_TAX_INFORMATION"], "confidence": 0.95, "source": "active_learning"}
+{"en_query": "生命保険料控除証明書の電子発行はできますか。", "predicted_intents": ["INQUIRE_TAX_INFORMATION", "REQUEST_DOCUMENTS"], "confidence": 0.95, "source": "active_learning"}
+{"en_query": "控除証明書に「介護医療保険料控除」と書かれているが介護保険に変更になったのでしょうか。", "predicted_intents": ["REQUEST_DOCUMENTS", "INQUIRE_POLICY_DETAILS"], "confidence": 0.9, "source": "active_learning"}
+{"en_query": "証券番号がわからなくても控除証明書の再発行はできますか。", "predicted_intents": ["REQUEST_DOCUMENTS", "INQUIRE_TAX_INFORMATION"], "confidence": 1.0, "source": "active_learning"}
+{"en_query": "生命保険料控除証明書をFAXかメールで送ってもらえますか。", "predicted_intents": ["INQUIRE_TAX_INFORMATION", "REQUEST_DOCUMENTS"], "confidence": 0.7967328390523242, "source": "active_learning_propagation"}
+{"en_query": "控除証明書を速達で発送することはできますか", "predicted_intents": ["INQUIRE_TAX_INFORMATION", "REQUEST_DOCUMENTS"], "confidence": 1.0, "source": "active_learning"}
+{"en_query": "生命保険料控除証明書を紛失しました。再発行はできますか。", "predicted_intents": ["INQUIRE_TAX_INFORMATION", "REQUEST_DOCUMENTS"], "confidence": 0.7955952981991337, "source": "active_learning_propagation"}
+{"en_query": "「生命保険料控除申告予定額のお知らせ」は「生命保険料控除証明書」として使えますか。", "predicted_intents": ["INQUIRE_TAX_INFORMATION"], "confidence": 0.98, "source": "active_learning"}
+{"en_query": "保険料控除申告予定額のお知らせが欲しいのですが、どのようにしたらいいですか。", "predicted_intents": ["REQUEST_DOCUMENTS", "INQUIRE_TAX_INFORMATION"], "confidence": 1.0, "source": "active_learning"}
+{"en_query": "生命保険控除申告予定額のお知らせは再発行できますか。", "predicted_intents": ["INQUIRE_TAX_INFORMATION", "REQUEST_DOCUMENTS"], "confidence": 0.95, "source": "active_learning"}
+{"en_query": "生命保険料控除証明書が届きました。何を確認すればよいですか。", "predicted_intents": ["INQUIRE_TAX_INFORMATION"], "confidence": 0.95, "source": "active_learning"}
+{"en_query": "「生命保険料控除証明書」はいつ送られてきますか。", "predicted_intents": ["INQUIRE_TAX_INFORMATION"], "confidence": 0.98, "source": "active_learning"}
+{"en_query": "10月以降の年払契約です。控除証明書はいつ届きますか。", "predicted_intents": ["REQUEST_DOCUMENTS"], "confidence": 0.95, "source": "active_learning"}
+{"en_query": "生命保険料控除証明書がすぐに必要です。もしすぐに送れない場合は代わりの書類を送ってほしいです。", "predicted_intents": ["INQUIRE_TAX_INFORMATION", "REQUEST_DOCUMENTS"], "confidence": 0.8258561269550698, "source": "active_learning_propagation"}
+{"en_query": "生命保険料控除でいくら控除されますか。", "predicted_intents": ["INQUIRE_GENERAL_INFORMATION"], "confidence": 0.9, "source": "active_learning"}
+{"en_query": "保険料引落口座の名義と契約者が異なります。実際の保険料負担者は口座名義人ですが、口座名義人が生命保険料控除を受けられますか。", "predicted_intents": ["INQUIRE_TAX_INFORMATION"], "confidence": 0.95, "source": "active_learning"}
+{"en_query": "生命保険料控除証明書はどの住所に送られますか。", "predicted_intents": ["INQUIRE_TAX_INFORMATION"], "confidence": 0.9, "source": "active_learning"}
+{"en_query": "契約して間もないですが、生命保険料の控除対象となりますか。", "predicted_intents": ["INQUIRE_TAX_INFORMATION"], "confidence": 0.95, "source": "active_learning"}
+{"en_query": "契約が失効しました。生命保険料控除証明書は送られてきますか。", "predicted_intents": ["INQUIRE_TAX_INFORMATION", "REQUEST_DOCUMENTS"], "confidence": 0.7680327493155468, "source": "active_learning_propagation"}
+{"en_query": "失効後、復活の手続きをしました。控除の対象になりますか。", "predicted_intents": ["INQUIRE_TAX_INFORMATION", "POLICY_ADMINISTRATION"], "confidence": 1.0, "source": "active_learning"}
+{"en_query": "解約しました。生命保険料控除証明書は送られてきますか。", "predicted_intents": ["INQUIRE_TAX_INFORMATION", "REQUEST_DOCUMENTS"], "confidence": 0.809117004887123, "source": "active_learning_propagation"}
+{"en_query": "契約が満了しました。生命保険料控除証明書は送られてきますか。", "predicted_intents": ["INQUIRE_TAX_INFORMATION", "REQUEST_DOCUMENTS"], "confidence": 0.95, "source": "active_learning"}
+{"en_query": "保険料の払込方法が一時払の契約ですが、生命保険料控除証明書は送付されますか。", "predicted_intents": ["INQUIRE_TAX_INFORMATION"], "confidence": 1.0, "source": "active_learning"}
+{"en_query": "保険料を前納（保険料の全部または一部を前払い）しました。生命保険料控除証明書は送付されますか。", "predicted_intents": ["INQUIRE_TAX_INFORMATION", "MANAGE_PREMIUM_PAYMENTS"], "confidence": 0.95, "source": "active_learning"}
+{"en_query": "苗字が変わりました。生命保険料控除証明書が旧姓のまま届いたのですが申告できますか。", "predicted_intents": ["INQUIRE_TAX_INFORMATION", "POLICY_ADMINISTRATION"], "confidence": 0.9, "source": "active_learning"}
+{"en_query": "払い込みが完了しました。生命保険料控除証明書は送られてきますか。", "predicted_intents": ["INQUIRE_TAX_INFORMATION", "REQUEST_DOCUMENTS"], "confidence": 0.95, "source": "active_learning"}
+{"en_query": "個人年金保険に入っていますが生命保険料控除証明書は送られてきますか。", "predicted_intents": ["INQUIRE_TAX_INFORMATION", "REQUEST_DOCUMENTS"], "confidence": 0.95, "source": "active_learning"}
+{"en_query": "払い込みが10月以降の年払契約を複数もっていますが、一部の契約のみ「生命保険料控除申告予定額のお知らせ」が届きませんでした。なぜでしょうか。", "predicted_intents": ["INQUIRE_TAX_INFORMATION"], "confidence": 0.95, "source": "active_learning"}
+{"en_query": "生命保険料控除証明書が届きました。年末調整や確定申告の手続き方法・書類の記入方法を教えてください。", "predicted_intents": ["INQUIRE_TAX_INFORMATION"], "confidence": 1.0, "source": "active_learning"}
+{"en_query": "年末調整、または確定申告の際、生命保険料控除証明書に記載されている金額のうち、保険料控除申告書に記入するのはどの金額ですか。", "predicted_intents": ["INQUIRE_TAX_INFORMATION"], "confidence": 0.98, "source": "active_learning"}
+{"en_query": "生命保険料控除の申告で自分の保険の「旧制度」「新制度」といった制度や、「一般生命保険料」「介護医療保険料」「個人年金保険料」などの控除区分がどれに該当するのか確認できますか？", "predicted_intents": ["INQUIRE_POLICY_DETAILS"], "confidence": 0.9, "source": "active_learning"}
+{"en_query": "年払契約です。控除証明書に来年までの保険料が記載されていますが、申告書に記載するのはどの金額ですか。", "predicted_intents": ["INQUIRE_TAX_INFORMATION"], "confidence": 1.0, "source": "active_learning"}
+{"en_query": "控除証明書が届きました。受取人はどこを見ればわかりますか。", "predicted_intents": ["INQUIRE_TAX_INFORMATION"], "confidence": 0.95, "source": "active_learning"}
+{"en_query": "控除証明書の電子データがダウンロードできません。", "predicted_intents": ["MANAGE_ONLINE_ACCOUNT", "REQUEST_DOCUMENTS"], "confidence": 0.95, "source": "active_learning"}
+{"en_query": "控除証明書の電子データ の利用方法にはどのような方法がありますか。", "predicted_intents": ["INQUIRE_TAX_INFORMATION"], "confidence": 0.95, "source": "active_learning"}
+{"en_query": "控除証明書の電子データはどこから取得できますか。", "predicted_intents": ["INQUIRE_TAX_INFORMATION", "REQUEST_DOCUMENTS"], "confidence": 0.95, "source": "active_learning"}
+{"en_query": "特約を付加したので途中から保険料が変わりました。生命保険料控除証明書はどのようになりますか。", "predicted_intents": ["INQUIRE_TAX_INFORMATION"], "confidence": 0.95, "source": "active_learning"}
+{"en_query": "1つの契約の生命保険料控除証明書が2つに分かれて記載されています。なぜですか。", "predicted_intents": ["INQUIRE_TAX_INFORMATION"], "confidence": 0.95, "source": "active_learning"}
+{"en_query": "既に生命保険料控除証明書が届いた後に、「再出力」と記載された同じ契約の証明書が届きました。どうしたらよいですか。", "predicted_intents": ["INQUIRE_TAX_INFORMATION", "REQUEST_DOCUMENTS"], "confidence": 0.7232087805964141, "source": "active_learning_propagation"}
+{"en_query": "過去の生命保険料控除証明書も再発行できますか。", "predicted_intents": ["INQUIRE_TAX_INFORMATION", "REQUEST_DOCUMENTS"], "confidence": 0.95, "source": "active_learning"}
+{"en_query": "海外赴任するため、生命保険料控除証明書が必要です。通常の発送時期でなくても発行してもらえますか。", "predicted_intents": ["REQUEST_DOCUMENTS", "INQUIRE_TAX_INFORMATION"], "confidence": 0.95, "source": "active_learning"}
+{"en_query": "住所が変わりました。新しい住所へ控除証明書を送ってもらえますか。", "predicted_intents": ["POLICY_ADMINISTRATION", "REQUEST_DOCUMENTS", "INQUIRE_TAX_INFORMATION"], "confidence": 0.95, "source": "active_learning"}
+{"en_query": "新型コロナウイルス感染症が原因で死亡した場合、災害死亡保険金は支払われますか。", "predicted_intents": ["CLAIM_BENEFITS", "INQUIRE_POLICY_DETAILS"], "confidence": 0.95, "source": "active_learning"}
+{"en_query": "オンライン診療や電話診療は、通院給付金の支払対象となりますか。", "predicted_intents": ["CLAIM_BENEFITS"], "confidence": 0.95, "source": "active_learning"}
+{"en_query": "新型コロナウイルス感染症で医療機関に入院した場合、入院給付金は支払われますか。", "predicted_intents": ["CLAIM_BENEFITS"], "confidence": 0.98, "source": "active_learning"}
+{"en_query": "新型コロナウイルス感染症による宿泊施設・自宅等の療養は入院給付金が支払われますか。", "predicted_intents": ["CLAIM_BENEFITS"], "confidence": 0.98, "source": "active_learning"}
+{"en_query": "新型コロナウイルス感染症のワクチン接種による死亡・入院は保険金・給付金の対象ですか。", "predicted_intents": ["CLAIM_BENEFITS", "INQUIRE_POLICY_DETAILS"], "confidence": 0.95, "source": "active_learning"}
+{"en_query": "新型コロナウイルス感染症の検査結果は陰性で症状もありませんが、濃厚接触者に該当するため、宿泊施設や自宅等で待機・隔離された場合、入院給付金は支払われますか。", "predicted_intents": ["CLAIM_BENEFITS"], "confidence": 0.98, "source": "active_learning"}
+{"en_query": "新型コロナウイルス感染症で、給付金を請求する場合はいつの時点から支払われますか。", "predicted_intents": ["CLAIM_BENEFITS", "INQUIRE_POLICY_DETAILS"], "confidence": 0.9, "source": "active_learning"}
+{"en_query": "新型コロナウイルス感染症による宿泊施設・自宅等の療養の請求には、どのような書類が必要ですか。", "predicted_intents": ["CLAIM_BENEFITS", "REQUEST_DOCUMENTS"], "confidence": 1.0, "source": "active_learning"}
+{"en_query": "健康祝金の請求方法を教えてください。", "predicted_intents": ["CLAIM_BENEFITS"], "confidence": 1.0, "source": "active_learning"}
+{"en_query": "検査入院をすることになりましたが、検査入院も入院給付金の支払対象となりますか？", "predicted_intents": ["CLAIM_BENEFITS"], "confidence": 1.0, "source": "active_learning"}
+{"en_query": "先進医療の対象になるか確認できますか？", "predicted_intents": ["INQUIRE_POLICY_DETAILS"], "confidence": 0.92, "source": "active_learning"}
+{"en_query": "給付金支払いの対象となる手術を教えてください。", "predicted_intents": ["INQUIRE_POLICY_DETAILS", "CLAIM_BENEFITS"], "confidence": 0.9, "source": "active_learning"}
+{"en_query": "海外で入院した場合請求できますか。", "predicted_intents": ["CLAIM_BENEFITS"], "confidence": 1.0, "source": "active_learning"}
+{"en_query": "ケガによる通院は支払われますか。", "predicted_intents": ["CLAIM_BENEFITS"], "confidence": 0.95, "source": "active_learning"}
+{"en_query": "健康祝金（健康サポート給付金）はどういうときに支払われるのでしょうか。", "predicted_intents": ["INQUIRE_POLICY_DETAILS"], "confidence": 0.9, "source": "active_learning"}
+{"en_query": "入院給付金の支払対象となる入院を教えてください。", "predicted_intents": ["CLAIM_BENEFITS"], "confidence": 0.9415789296819982, "source": "active_learning_propagation"}
+{"en_query": "被保険者（または契約者、受取人）が亡くなった場合、どのような手続きが必要ですか。", "predicted_intents": ["CLAIM_BENEFITS"], "confidence": 0.95, "source": "active_learning"}
+{"en_query": "死亡保険金・死亡給付金受取人が複数名いる契約です。請求はそれぞれ必要ですか。", "predicted_intents": ["CLAIM_BENEFITS"], "confidence": 0.98, "source": "active_learning"}
+{"en_query": "「法定相続人」を死亡保険金・死亡給付金受取人に指定している契約です。その場合、具体的には誰から請求すればいいのでしょうか。", "predicted_intents": ["CLAIM_BENEFITS"], "confidence": 0.95, "source": "active_learning"}
+{"en_query": "高度障害状態とはどのような状態ですか。", "predicted_intents": ["CLAIM_BENEFITS"], "confidence": 0.9, "source": "active_learning"}
+{"en_query": "入院（手術）しました。給付金はどんな方法で請求できますか。", "predicted_intents": ["CLAIM_BENEFITS"], "confidence": 1.0, "source": "active_learning"}
+{"en_query": "入院（手術）しました。入院（手術）給付金は誰からの請求になりますか。", "predicted_intents": ["CLAIM_BENEFITS"], "confidence": 0.9883285405430382, "source": "active_learning_propagation"}
+{"en_query": "入院や手術、通院をしました。どのような書類を用意する必要がありますか。", "predicted_intents": ["CLAIM_BENEFITS", "REQUEST_DOCUMENTS"], "confidence": 1.0, "source": "active_learning"}
+{"en_query": "妊娠・出産のための入院は給付金の対象になりますか。", "predicted_intents": ["CLAIM_BENEFITS", "INQUIRE_POLICY_DETAILS"], "confidence": 0.5880213226426136, "source": "active_learning_propagation"}
+{"en_query": "入院が長引きそうです。入院中に入院給付金を請求することはできますか。", "predicted_intents": ["CLAIM_BENEFITS"], "confidence": 1.0, "source": "active_learning"}
+{"en_query": "解約しました。解約する前に入院（手術）していましたが、給付金は支払われますか。", "predicted_intents": ["CLAIM_BENEFITS", "POLICY_ADMINISTRATION"], "confidence": 0.9, "source": "active_learning"}
+{"en_query": "何回も入退院を繰り返しても、退院給付金は、すべての退院に対して支払対象になりますか。", "predicted_intents": ["CLAIM_BENEFITS"], "confidence": 0.95, "source": "active_learning"}
+{"en_query": "入院はしなかったのですが、手術を受けました。手術給付金のみを請求できますか。", "predicted_intents": ["CLAIM_BENEFITS"], "confidence": 0.9717864061428446, "source": "active_learning_propagation"}
+{"en_query": "通院給付金の請求はいつすればよいですか。", "predicted_intents": ["CLAIM_BENEFITS"], "confidence": 1.0, "source": "active_learning"}
+{"en_query": "ガン保険に加入しています。本人に病名を知らせないまま請求手続きはできますか。", "predicted_intents": ["CLAIM_BENEFITS"], "confidence": 0.92, "source": "active_learning"}
+{"en_query": "ガン保険に加入しています。悪性新生物と上皮内新生物の違いは何ですか。", "predicted_intents": ["INQUIRE_GENERAL_INFORMATION"], "confidence": 0.8, "source": "active_learning"}
+{"en_query": "特定疾病とはどのような病気をさしますか。", "predicted_intents": ["INQUIRE_GENERAL_INFORMATION"], "confidence": 0.9, "source": "active_learning"}
+{"en_query": "女性特有の疾病やガンを保障する特約に加入していますが、どのような疾病やガンが対象ですか。", "predicted_intents": ["INQUIRE_POLICY_DETAILS"], "confidence": 0.95, "source": "active_learning"}
+{"en_query": "入院中の被保険者に代わって、家族が給付金の請求をすることができますか。", "predicted_intents": ["CLAIM_BENEFITS"], "confidence": 0.98, "source": "active_learning"}
+{"en_query": "白内障の手術を受けた場合、手術給付金を請求することができますか。", "predicted_intents": ["CLAIM_BENEFITS"], "confidence": 1.0, "source": "active_learning"}
+{"en_query": "妊娠・出産のための手術は給付金の対象になりますか。", "predicted_intents": ["CLAIM_BENEFITS", "INQUIRE_POLICY_DETAILS"], "confidence": 0.95, "source": "active_learning"}
+{"en_query": "保険が満期を迎えます。どうすればよいですか。", "predicted_intents": ["POLICY_ADMINISTRATION", "CLAIM_BENEFITS"], "confidence": 0.9, "source": "active_learning"}
+{"en_query": "定額個人年金保険がもうすぐ据置期間の満了を迎えます。据置期間満了の手続きを行いたいのですが、どのような選択肢がありますか。", "predicted_intents": ["POLICY_ADMINISTRATION", "INQUIRE_POLICY_DETAILS"], "confidence": 0.9, "source": "active_learning"}
+{"en_query": "変額個人年金保険がもうすぐ据置期間の満了を迎えます。据置期間満了の手続きを行いたいのですが、どのような選択肢がありますか。", "predicted_intents": ["POLICY_ADMINISTRATION", "INQUIRE_POLICY_DETAILS"], "confidence": 0.9, "source": "active_learning"}
+{"en_query": "保険金・給付金の請求をし忘れていました。請求期限はありますか。", "predicted_intents": ["CLAIM_BENEFITS"], "confidence": 1.0, "source": "active_learning"}
+{"en_query": "保険金・給付金はいつ支払われるのでしょうか。", "predicted_intents": ["CLAIM_BENEFITS"], "confidence": 1.0, "source": "active_learning"}
+{"en_query": "請求手続きの際に、改姓・改名の手続きをしていないことに気が付きました。どうすればよいでしょうか。", "predicted_intents": ["CLAIM_BENEFITS", "POLICY_ADMINISTRATION"], "confidence": 0.95, "source": "active_learning"}
+{"en_query": "メットライフ生命以外の診断書でも請求できますか。", "predicted_intents": ["CLAIM_BENEFITS"], "confidence": 1.0, "source": "active_learning"}
+{"en_query": "保険金・給付金を請求する場合の診断書取得費用は誰が負担するのですか。", "predicted_intents": ["CLAIM_BENEFITS"], "confidence": 0.95, "source": "active_learning"}
+{"en_query": "海外から給付金の請求をするにはどこへ連絡したらよいですか。", "predicted_intents": ["CLAIM_BENEFITS"], "confidence": 0.98, "source": "active_learning"}
+{"en_query": "保険金・給付金が支払われない場合はありますか。", "predicted_intents": ["CLAIM_BENEFITS"], "confidence": 0.95, "source": "active_learning"}
+{"en_query": "リビング・ニーズ特約とは何ですか。", "predicted_intents": ["INQUIRE_GENERAL_INFORMATION"], "confidence": 0.95, "source": "active_learning"}
+{"en_query": "先進医療は普通の医療と何が違うのですか。", "predicted_intents": ["INQUIRE_GENERAL_INFORMATION"], "confidence": 0.9, "source": "active_learning"}
+{"en_query": "海外で受療した場合も保障の対象になりますか？", "predicted_intents": ["INQUIRE_POLICY_DETAILS"], "confidence": 1.0, "source": "active_learning"}
+{"en_query": "給付金代理請求特約とはどのような特約ですか。", "predicted_intents": ["INQUIRE_POLICY_DETAILS"], "confidence": 0.95, "source": "active_learning"}
+{"en_query": "保険料の支払いを忘れていました。どうすればよいですか。", "predicted_intents": ["MANAGE_PREMIUM_PAYMENTS"], "confidence": 1.0, "source": "active_learning"}
+{"en_query": "保険料の引き落とし口座にネット銀行は利用できますか。", "predicted_intents": ["MANAGE_PREMIUM_PAYMENTS"], "confidence": 1.0, "source": "active_learning"}
+{"en_query": "保険料が口座から引き落とされる日は毎月何日ですか。", "predicted_intents": ["MANAGE_PREMIUM_PAYMENTS"], "confidence": 1.0, "source": "active_learning"}
+{"en_query": "保険料の引き落とし日を変更することはできますか。", "predicted_intents": ["POLICY_ADMINISTRATION", "MANAGE_PREMIUM_PAYMENTS"], "confidence": 0.6246663216207522, "source": "active_learning_propagation"}
+{"en_query": "保険料の支払方法の変更手続きをしました。いつから変更されますか。", "predicted_intents": ["POLICY_ADMINISTRATION", "MANAGE_PREMIUM_PAYMENTS"], "confidence": 0.7233322565437279, "source": "active_learning_propagation"}
+{"en_query": "クレジットカードで保険料を支払っています。クレジットカードの有効期限(またはクレジットカード番号)が変更になりましたが、手続きは必要ですか。", "predicted_intents": ["MANAGE_PREMIUM_PAYMENTS", "POLICY_ADMINISTRATION"], "confidence": 1.0, "source": "active_learning"}
+{"en_query": "保険料が口座から引き落とされる際、通帳にはどのように表示されますか。", "predicted_intents": ["MANAGE_PREMIUM_PAYMENTS"], "confidence": 0.9, "source": "active_learning"}
+{"en_query": "保険料をまとめて支払うことはできますか。", "predicted_intents": ["MANAGE_PREMIUM_PAYMENTS", "CLAIM_BENEFITS", "POLICY_ADMINISTRATION"], "confidence": 0.40529248021424286, "source": "active_learning_propagation"}
+{"en_query": "保険料を前納しています。解約した場合、前納した保険料はどうなりますか。", "predicted_intents": ["POLICY_ADMINISTRATION", "MANAGE_PREMIUM_PAYMENTS"], "confidence": 0.95, "source": "active_learning"}
+{"en_query": "保険料の払込期間を短縮または延長することはできますか。", "predicted_intents": ["POLICY_ADMINISTRATION", "MANAGE_PREMIUM_PAYMENTS"], "confidence": 0.9, "source": "active_learning"}
+{"en_query": "外貨建の契約ですが、保険料は毎月円で引き落とされています。毎月の保険料の金額が違うのはなぜですか。", "predicted_intents": ["MANAGE_PREMIUM_PAYMENTS"], "confidence": 0.95, "source": "active_learning"}
+{"en_query": "保険料が引き落としできませんでした。どうしたらよいですか。", "predicted_intents": ["MANAGE_PREMIUM_PAYMENTS"], "confidence": 1.0, "source": "active_learning"}
+{"en_query": "振込用紙で保険料を入金したのに、口座からも保険料が引き落とされました。返金されますか。", "predicted_intents": ["MANAGE_PREMIUM_PAYMENTS"], "confidence": 0.98, "source": "active_learning"}
+{"en_query": "保険料の払込が免除される制度はありますか。", "predicted_intents": ["INQUIRE_POLICY_DETAILS", "MANAGE_PREMIUM_PAYMENTS"], "confidence": 0.9, "source": "active_learning"}
+{"en_query": "保険料の支払を忘れ、契約が失効しました。どうすればよいですか。", "predicted_intents": ["POLICY_ADMINISTRATION", "MANAGE_PREMIUM_PAYMENTS"], "confidence": 0.95, "source": "active_learning"}
+{"en_query": "自動振替貸付制度とは何ですか。", "predicted_intents": ["MANAGE_POLICY_LOANS"], "confidence": 0.95, "source": "active_learning"}
+{"en_query": "自動延長定期保険とは何ですか。", "predicted_intents": ["INQUIRE_GENERAL_INFORMATION"], "confidence": 0.9, "source": "active_learning"}
+{"en_query": "自動払済保険とは何ですか。", "predicted_intents": ["INQUIRE_GENERAL_INFORMATION"], "confidence": 0.9, "source": "active_learning"}
+{"en_query": "保険料の引き落とし口座を変更したいです。どんな手続き方法がありますか。", "predicted_intents": ["POLICY_ADMINISTRATION", "MANAGE_PREMIUM_PAYMENTS"], "confidence": 0.7505209423115191, "source": "active_learning_propagation"}
+{"en_query": "保険料が口座から引き落としできたかいつ頃確認できますか。", "predicted_intents": ["MANAGE_PREMIUM_PAYMENTS"], "confidence": 0.95, "source": "active_learning"}
+{"en_query": "保険料の引落し口座に指定できない銀行はありますか。", "predicted_intents": ["MANAGE_PREMIUM_PAYMENTS"], "confidence": 1.0, "source": "active_learning"}
+{"en_query": "保険料の払込回数を変更したいです。（月払から半年払、年払など）", "predicted_intents": ["MANAGE_PREMIUM_PAYMENTS"], "confidence": 1.0, "source": "active_learning"}
+{"en_query": "保険料のお支払いに利用できるクレジットカードを教えてください。", "predicted_intents": ["MANAGE_PREMIUM_PAYMENTS"], "confidence": 0.95, "source": "active_learning"}
+{"en_query": "毎月送られてくる円換算金額が記載された保険料案内ハガキを停止したいです。", "predicted_intents": ["POLICY_ADMINISTRATION", "MANAGE_PREMIUM_PAYMENTS"], "confidence": 0.85, "source": "active_learning"}
+{"en_query": "保険料引落口座は契約者以外の口座も設定できますか。", "predicted_intents": ["MANAGE_PREMIUM_PAYMENTS"], "confidence": 0.95, "source": "active_learning"}
+{"en_query": "契約を復活したいです。どうすればよいですか。", "predicted_intents": ["POLICY_ADMINISTRATION"], "confidence": 0.95, "source": "active_learning"}
+{"en_query": "契約者以外のクレジットカードで、保険料を支払うことはできますか。", "predicted_intents": ["MANAGE_PREMIUM_PAYMENTS"], "confidence": 1.0, "source": "active_learning"}
+{"en_query": "保険料支払いのクレジットカードを変更したいです。", "predicted_intents": ["POLICY_ADMINISTRATION", "MANAGE_PREMIUM_PAYMENTS"], "confidence": 0.6985783392022964, "source": "active_learning_propagation"}
+{"en_query": "契約者は変更できますか。", "predicted_intents": ["POLICY_ADMINISTRATION"], "confidence": 0.9776492125473323, "source": "active_learning_propagation"}
+{"en_query": "契約者が亡くなりました。保険は継続できますか。", "predicted_intents": ["POLICY_ADMINISTRATION"], "confidence": 0.9, "source": "active_learning"}
+{"en_query": "契約者変更をします。外国籍の人が契約者になれますか。", "predicted_intents": ["POLICY_ADMINISTRATION", "INQUIRE_POLICYHOLDER_SERVICES"], "confidence": 0.9, "source": "active_learning"}
+{"en_query": "契約者が法人です。法人の代表者が変わりました。手続きは必要ですか。", "predicted_intents": ["POLICY_ADMINISTRATION"], "confidence": 0.9772212634462561, "source": "active_learning_propagation"}
+{"en_query": "保険金・給付金の受取人は変更できますか。", "predicted_intents": ["POLICY_ADMINISTRATION"], "confidence": 1.0, "source": "active_learning"}
+{"en_query": "現在の保険金・給付金の受取人を確認するにはどうすればよいですか。", "predicted_intents": ["INQUIRE_POLICY_DETAILS"], "confidence": 0.98, "source": "active_learning"}
+{"en_query": "契約者が法人です。受取人を変更できますか。", "predicted_intents": ["POLICY_ADMINISTRATION"], "confidence": 0.95, "source": "active_learning"}
+{"en_query": "苗字が変わりました。どのような手続きが必要ですか。", "predicted_intents": ["POLICY_ADMINISTRATION"], "confidence": 0.95, "source": "active_learning"}
+{"en_query": "保険を解約するにはどのような手続きが必要ですか。", "predicted_intents": ["POLICY_ADMINISTRATION"], "confidence": 0.95, "source": "active_learning"}
+{"en_query": "保険を解約した後、手続き完了のお知らせはありますか。", "predicted_intents": ["POLICY_ADMINISTRATION"], "confidence": 0.9, "source": "active_learning"}
+{"en_query": "解約の手続き書類に記載されている「返送期限」は必着ですか。それとも、消印有効ですか。", "predicted_intents": ["POLICY_ADMINISTRATION"], "confidence": 0.9, "source": "active_learning"}
+{"en_query": "解約請求書に印鑑が綺麗に押せませんでした。書類の余白に押しなおしても大丈夫でしょうか。", "predicted_intents": ["POLICY_ADMINISTRATION"], "confidence": 0.9, "source": "active_learning"}
+{"en_query": "解約請求書「記入日」欄の記入方法を教えてください。", "predicted_intents": ["POLICY_ADMINISTRATION"], "confidence": 0.85, "source": "active_learning"}
+{"en_query": "請求書の押印に認印は使用できますか。", "predicted_intents": ["POLICY_ADMINISTRATION"], "confidence": 0.9, "source": "active_learning"}
+{"en_query": "保険の解約手続きに印鑑証明書は必要ですか。", "predicted_intents": ["POLICY_ADMINISTRATION"], "confidence": 0.95, "source": "active_learning"}
+{"en_query": "解約返戻金の目安を知りたいのですが、確認する方法はありますか。", "predicted_intents": ["INQUIRE_POLICY_DETAILS"], "confidence": 0.92, "source": "active_learning"}
+{"en_query": "解約返戻金は必ずありますか。", "predicted_intents": ["INQUIRE_POLICY_DETAILS"], "confidence": 0.95, "source": "active_learning"}
+{"en_query": "解約手続き完了後、解約返戻金はどのくらいで振り込まれますか。", "predicted_intents": ["POLICY_ADMINISTRATION"], "confidence": 0.9, "source": "active_learning"}
+{"en_query": "契約者貸付や保険料の立替制度を利用しています。解約するとどうなりますか。", "predicted_intents": ["INQUIRE_POLICY_DETAILS", "MANAGE_POLICY_LOANS", "POLICY_ADMINISTRATION"], "confidence": 0.9, "source": "active_learning"}
+{"en_query": "解約後に保険料引き落とし口座から保険料が引き落とされました。返金されますか。", "predicted_intents": ["POLICY_ADMINISTRATION", "MANAGE_PREMIUM_PAYMENTS"], "confidence": 0.7388471161483148, "source": "active_learning_propagation"}
+{"en_query": "解約しました。解約日（効力発生日）はいつですか。", "predicted_intents": ["INQUIRE_POLICY_DETAILS"], "confidence": 0.9, "source": "active_learning"}
+{"en_query": "保障内容を見直しています。保険料を少なくすることはできますか。", "predicted_intents": ["POLICY_ADMINISTRATION"], "confidence": 0.95, "source": "active_learning"}
+{"en_query": "自動更新制度とは何ですか。", "predicted_intents": ["POLICY_ADMINISTRATION"], "confidence": 0.9, "source": "active_learning"}
+{"en_query": "自動更新の契約です。更新の手続きは必要ですか。", "predicted_intents": ["POLICY_ADMINISTRATION"], "confidence": 0.9, "source": "active_learning"}
+{"en_query": "払済保険に変更したいです。", "predicted_intents": ["POLICY_ADMINISTRATION"], "confidence": 0.98, "source": "active_learning"}
+{"en_query": "延長定期保険に変更したいです。", "predicted_intents": ["POLICY_ADMINISTRATION"], "confidence": 0.9, "source": "active_learning"}
+{"en_query": "契約の口数を変えることはできますか。", "predicted_intents": ["POLICY_ADMINISTRATION"], "confidence": 1.0, "source": "active_learning"}
+{"en_query": "特約のみ解約できますか。", "predicted_intents": ["POLICY_ADMINISTRATION"], "confidence": 1.0, "source": "active_learning"}
+{"en_query": "年払や半年払で保険料を支払っていますが、途中で解約した場合、保険料は戻ってきますか。", "predicted_intents": ["POLICY_ADMINISTRATION", "MANAGE_PREMIUM_PAYMENTS"], "confidence": 0.9, "source": "active_learning"}
+{"en_query": "年金移行特約とはなんですか。", "predicted_intents": ["INQUIRE_POLICY_DETAILS"], "confidence": 0.95, "source": "active_learning"}
+{"en_query": "積立金の移転（勘定移転）には費用はかかりますか。", "predicted_intents": ["POLICY_ADMINISTRATION", "INQUIRE_POLICY_DETAILS"], "confidence": 0.9, "source": "active_learning"}
+{"en_query": "積立金の移転（勘定移転）の受付日と移転日はいつですか。", "predicted_intents": ["POLICY_ADMINISTRATION"], "confidence": 0.8, "source": "active_learning"}
+{"en_query": "保険証券を紛失した場合でも、解約の手続きはできますか。", "predicted_intents": ["POLICY_ADMINISTRATION"], "confidence": 0.9, "source": "active_learning"}
+{"en_query": "家族が代わりに契約内容変更の手続きをすることができますか。", "predicted_intents": ["POLICY_ADMINISTRATION"], "confidence": 0.95, "source": "active_learning"}
+{"en_query": "終身または歳満了タイプの保険なのに、「ご契約更新のご案内」が届きました。なぜですか。", "predicted_intents": ["INQUIRE_POLICY_DETAILS"], "confidence": 0.85, "source": "active_learning"}
+{"en_query": "現在の住所が保険証券に記載されている住所と異なります。大丈夫でしょうか。", "predicted_intents": ["POLICY_ADMINISTRATION"], "confidence": 0.9, "source": "active_learning"}
+{"en_query": "新住所に「様方」の指定はできますか。", "predicted_intents": ["POLICY_ADMINISTRATION"], "confidence": 0.9, "source": "active_learning"}
+{"en_query": "住所変更が完了した旨の案内は届きますか。", "predicted_intents": ["POLICY_ADMINISTRATION", "REQUEST_DOCUMENTS"], "confidence": 0.85, "source": "active_learning"}
+{"en_query": "海外への住所変更はできますか。", "predicted_intents": ["POLICY_ADMINISTRATION"], "confidence": 0.95, "source": "active_learning"}
+{"en_query": "住所は変更していないが、登録している電話番号のみの変更はできますか。", "predicted_intents": ["POLICY_ADMINISTRATION"], "confidence": 0.95, "source": "active_learning"}
+{"en_query": "住所変更の手続き方法を教えてください。", "predicted_intents": ["POLICY_ADMINISTRATION"], "confidence": 0.95, "source": "active_learning"}
+{"en_query": "市町村合併、区画整理に伴う住所変更は必要ですか。", "predicted_intents": ["POLICY_ADMINISTRATION"], "confidence": 0.95, "source": "active_learning"}
+{"en_query": "結婚することになりました。必要な手続きを教えてください。", "predicted_intents": ["POLICY_ADMINISTRATION", "INQUIRE_POLICYHOLDER_SERVICES"], "confidence": 0.95, "source": "active_learning"}
+{"en_query": "子供が生まれました。必要な手続きを教えてください。", "predicted_intents": ["POLICY_ADMINISTRATION"], "confidence": 0.95, "source": "active_learning"}
+{"en_query": "子供が成人します。必要な手続きはありますか。", "predicted_intents": ["POLICY_ADMINISTRATION"], "confidence": 0.9, "source": "active_learning"}
+{"en_query": "社会人になります。必要な手続きはありますか。", "predicted_intents": ["POLICY_ADMINISTRATION", "MANAGE_PREMIUM_PAYMENTS"], "confidence": 0.8, "source": "active_learning"}
+{"en_query": "転職／定年により退職することになりました。必要な手続きを教えてください。", "predicted_intents": ["POLICY_ADMINISTRATION"], "confidence": 0.9, "source": "active_learning"}
+{"en_query": "離婚しました。必要な手続きを教えてください。", "predicted_intents": ["POLICY_ADMINISTRATION"], "confidence": 1.0, "source": "active_learning"}
+{"en_query": "海外赴任にともない、転居することになりました。どのような手続きが必要ですか。", "predicted_intents": ["POLICY_ADMINISTRATION"], "confidence": 1.0, "source": "active_learning"}
+{"en_query": "保険の契約者（または保険の受取人）が亡くなりました。必要な手続きはありますか。", "predicted_intents": ["POLICY_ADMINISTRATION", "CLAIM_BENEFITS"], "confidence": 1.0, "source": "active_learning"}
+{"en_query": "個人年金保険の定期引出金の税金はどのようになりますか？", "predicted_intents": ["INQUIRE_GENERAL_INFORMATION"], "confidence": 0.85, "source": "active_learning"}
+{"en_query": "一時払終身保険の定期支払金の税金はどのようになりますか？", "predicted_intents": ["INQUIRE_TAX_INFORMATION"], "confidence": 0.95, "source": "active_learning"}
+{"en_query": "保険証券に記載されている会社名が、古い社名です。このままで大丈夫ですか。", "predicted_intents": ["POLICY_ADMINISTRATION"], "confidence": 0.9, "source": "active_learning"}
+{"en_query": "保険証券に記載されている契約者、被保険者、受取人名の漢字／フリガナが間違っています。どうしたらよいですか。", "predicted_intents": ["POLICY_ADMINISTRATION"], "confidence": 0.95, "source": "active_learning"}
+{"en_query": "保険証券に記載されている、契約者（被保険者）の生年月日が間違っています。どうしたらよいですか。", "predicted_intents": ["POLICY_ADMINISTRATION"], "confidence": 0.98, "source": "active_learning"}
+{"en_query": "メットライフ生命の営業店はどこにありますか。", "predicted_intents": ["INQUIRE_COMPANY_INFORMATION"], "confidence": 0.95, "source": "active_learning"}
+{"en_query": "コールセンターの電話番号を教えてください。", "predicted_intents": ["INQUIRE_GENERAL_INFORMATION"], "confidence": 0.98, "source": "active_learning"}
+{"en_query": "証券番号がわからないのですが、何を見たらわかりますか。", "predicted_intents": ["INQUIRE_POLICY_DETAILS"], "confidence": 0.95, "source": "active_learning"}
+{"en_query": "ご家族登録制度とは何ですか。", "predicted_intents": ["POLICY_ADMINISTRATION"], "confidence": 0.85, "source": "active_learning"}
+{"en_query": "コールセンターの電話番号は携帯電話からでも連絡することはできますか。", "predicted_intents": ["INQUIRE_COMPANY_INFO"], "confidence": 0.9, "source": "active_learning"}
+{"en_query": "保険証券に記載されている内容が自動更新する前のものですが有効ですか。", "predicted_intents": ["POLICY_ADMINISTRATION", "INQUIRE_POLICY_DETAILS"], "confidence": 0.9, "source": "active_learning"}
+{"en_query": "契約時の印鑑を紛失したのですが、何か手続きは必要ですか。", "predicted_intents": ["POLICY_ADMINISTRATION"], "confidence": 0.9, "source": "active_learning"}
+{"en_query": "変額個人年金保険や、ビー ウィズ ユー プラス（変額終身保険特約（16））の運用状況はどうやって確認できますか。", "predicted_intents": ["INQUIRE_POLICY_DETAILS"], "confidence": 0.9, "source": "active_learning"}
+{"en_query": "コールセンターへ海外から連絡することはできますか。", "predicted_intents": ["INQUIRE_COMPANY_INFORMATION"], "confidence": 0.95, "source": "active_learning"}
+{"en_query": "告知書に記入し忘れました。", "predicted_intents": ["POLICY_ADMINISTRATION"], "confidence": 0.85, "source": "active_learning"}
+{"en_query": "契約者の代わりに、家族からでも電話で契約内容を確認できる方法はありますか。", "predicted_intents": ["POLICY_ADMINISTRATION"], "confidence": 0.9, "source": "active_learning"}
+{"en_query": "届出印がない口座（印鑑レス口座）の口座変更手続き方法を教えてください。", "predicted_intents": ["POLICY_ADMINISTRATION"], "confidence": 0.95, "source": "active_learning"}
+{"en_query": "指定代理請求特則とは何ですか？", "predicted_intents": ["CLAIM_BENEFITS"], "confidence": 0.7, "source": "active_learning"}
+{"en_query": "特別勘定のユニット価格や運用レポートを確認する方法はありますか。", "predicted_intents": ["INQUIRE_POLICY_DETAILS"], "confidence": 0.9, "source": "active_learning"}
+{"en_query": "メットライフ生命の成り立ちについて教えてください。", "predicted_intents": [], "confidence": 1.0, "source": "active_learning"}
+{"en_query": "契約内容を確認するにはどうしたらいいですか。", "predicted_intents": ["INQUIRE_POLICY_DETAILS"], "confidence": 0.98, "source": "active_learning"}
+{"en_query": "自分の契約に適用されている積立利率を教えてください。", "predicted_intents": ["INQUIRE_POLICY_DETAILS"], "confidence": 1.0, "source": "active_learning"}
+{"en_query": "契約者貸付サービスは誰でも利用できますか。", "predicted_intents": ["MANAGE_POLICY_LOANS"], "confidence": 1.0, "source": "active_learning"}
+{"en_query": "契約者貸付サービスの利用にあたって注意することはありますか。", "predicted_intents": ["MANAGE_POLICY_LOANS"], "confidence": 1.0, "source": "active_learning"}
+{"en_query": "貸付可能額、貸付利率を教えてもらうことはできますか。", "predicted_intents": ["MANAGE_POLICY_LOANS"], "confidence": 1.0, "source": "active_learning"}
+{"en_query": "契約者貸付サービスは最低いくらから利用できますか。", "predicted_intents": ["MANAGE_POLICY_LOANS"], "confidence": 0.98, "source": "active_learning"}
+{"en_query": "契約者貸付サービスはいくらまで利用できますか。", "predicted_intents": ["MANAGE_POLICY_LOANS"], "confidence": 1.0, "source": "active_learning"}
+{"en_query": "契約者貸付サービスの申し込み時に何か審査はありますか。", "predicted_intents": ["MANAGE_POLICY_LOANS"], "confidence": 1.0, "source": "active_learning"}
+{"en_query": "契約者貸付サービスを受けるには、どうやって申込めばいいですか。", "predicted_intents": ["MANAGE_POLICY_LOANS"], "confidence": 1.0, "source": "active_learning"}
+{"en_query": "法人契約ですが、電話・ご契約者さまWEBサービスで契約者貸付できますか。", "predicted_intents": ["MANAGE_POLICY_LOANS"], "confidence": 0.98, "source": "active_learning"}
+{"en_query": "WEBで契約者貸付の申し込みはできますか。", "predicted_intents": ["MANAGE_POLICY_LOANS", "MANAGE_ONLINE_ACCOUNT"], "confidence": 0.7563782851396762, "source": "active_learning_propagation"}
+{"en_query": "契約者貸付サービスの申し込みに必要な書類はありますか。", "predicted_intents": ["MANAGE_POLICY_LOANS"], "confidence": 0.95, "source": "active_learning"}
+{"en_query": "契約者貸付金はいつ振り込まれますか。", "predicted_intents": ["MANAGE_POLICY_LOANS"], "confidence": 1.0, "source": "active_learning"}
+{"en_query": "契約者貸付を利用すると信用情報機関に登録されませんか。", "predicted_intents": ["MANAGE_POLICY_LOANS"], "confidence": 1.0, "source": "active_learning"}
+{"en_query": "貸付金の振込に指定できる口座を教えてください。", "predicted_intents": ["MANAGE_POLICY_LOANS"], "confidence": 1.0, "source": "active_learning"}
+{"en_query": "契約者貸付は、電話、ご契約者さまWEBサービスで連続して申込できますか。", "predicted_intents": ["MANAGE_ONLINE_ACCOUNT", "MANAGE_POLICY_LOANS"], "confidence": 0.7578792315651903, "source": "active_learning_propagation"}
+{"en_query": "契約者貸付の返済方法を教えてください。", "predicted_intents": ["MANAGE_POLICY_LOANS"], "confidence": 0.98, "source": "active_learning"}
+{"en_query": "借入金の分割返済はできますか。", "predicted_intents": ["MANAGE_POLICY_LOANS"], "confidence": 1.0, "source": "active_learning"}
+{"en_query": "外貨建保険で契約者貸付した場合の返済方法を教えてください", "predicted_intents": ["MANAGE_POLICY_LOANS"], "confidence": 0.95, "source": "active_learning"}
+{"en_query": "振込用紙に記載されている払込期限を過ぎた場合、どうなりますか。", "predicted_intents": ["MANAGE_PREMIUM_PAYMENTS"], "confidence": 0.95, "source": "active_learning"}
+{"en_query": "返済金額の記載されていない振込用紙を送付してもらうことはできますか。", "predicted_intents": ["MANAGE_POLICY_LOANS", "REQUEST_DOCUMENTS"], "confidence": 0.95, "source": "active_learning"}
+{"en_query": "貸付金返済用の振込用紙をまとめて送付してもらうことはできますか。", "predicted_intents": ["MANAGE_POLICY_LOANS", "REQUEST_DOCUMENTS"], "confidence": 1.0, "source": "active_learning"}
+{"en_query": "契約者貸付サービスを利用した場合の利息の計算方法を教えてください。", "predicted_intents": ["MANAGE_POLICY_LOANS"], "confidence": 1.0, "source": "active_learning"}
+{"en_query": "契約者貸付を利用した場合、何か郵送物が送られてきますか。", "predicted_intents": ["MANAGE_POLICY_LOANS", "REQUEST_DOCUMENTS"], "confidence": 0.92, "source": "active_learning"}
+{"en_query": "長期間返済しない場合、どうなりますか。", "predicted_intents": ["MANAGE_POLICY_LOANS"], "confidence": 0.95, "source": "active_learning"}
+{"en_query": "ATMなどで利用可能な契約者貸付用カードはありますか。", "predicted_intents": ["MANAGE_POLICY_LOANS"], "confidence": 1.0, "source": "active_learning"}
+{"en_query": "貸付申し込み時に送付した保険証券は返却されますか。", "predicted_intents": ["MANAGE_POLICY_LOANS"], "confidence": 0.95, "source": "active_learning"}
+{"en_query": "返済後、領収証は送付されますか。", "predicted_intents": ["MANAGE_POLICY_LOANS", "REQUEST_DOCUMENTS"], "confidence": 0.95, "source": "active_learning"}
+{"en_query": "貸付で利用できる金額を確認したいのですが、どうすればいいですか。", "predicted_intents": ["MANAGE_POLICY_LOANS"], "confidence": 1.0, "source": "active_learning"}
+{"en_query": "契約者貸付は未成年でも申込できますか？", "predicted_intents": ["MANAGE_POLICY_LOANS"], "confidence": 1.0, "source": "active_learning"}
+{"en_query": "ご契約者さまWEBサービス契約者貸付の対象商品を教えてください。", "predicted_intents": ["MANAGE_POLICY_LOANS", "MANAGE_ONLINE_ACCOUNT"], "confidence": 0.9, "source": "active_learning"}
+{"en_query": "ご契約者さまWEBサービスのID（メールアドレス）やパスワードを忘れてしまいました。", "predicted_intents": ["MANAGE_ONLINE_ACCOUNT", "TECHNICAL_SUPPORT"], "confidence": 0.95, "source": "active_learning"}
+{"en_query": "ご契約者さまWEBサービスに証券番号を追加するにはどうすればよいですか。", "predicted_intents": ["MANAGE_ONLINE_ACCOUNT"], "confidence": 1.0, "source": "active_learning"}
+{"en_query": "ご契約者さまWEBサービスIDとは何ですか？", "predicted_intents": ["MANAGE_ONLINE_ACCOUNT"], "confidence": 0.95, "source": "active_learning"}
+{"en_query": "ご契約者さまWEBサービスのID登録中に「メールアドレスの入力形式に誤りがあります」と表示されて登録できません。", "predicted_intents": ["MANAGE_ONLINE_ACCOUNT", "TECHNICAL_SUPPORT"], "confidence": 0.8441366354328683, "source": "active_learning_propagation"}
+{"en_query": "ご契約者さまWEBサービスのIDを削除したいです。どうすればよいですか。", "predicted_intents": ["MANAGE_ONLINE_ACCOUNT"], "confidence": 1.0, "source": "active_learning"}
+{"en_query": "1つのID（メールアドレス）で家族の証券番号も登録できますか。", "predicted_intents": ["MANAGE_ONLINE_ACCOUNT"], "confidence": 0.95, "source": "active_learning"}
+{"en_query": "ご契約者さまWEBサービスに登録したID（メールアドレス）の変更方法を教えてもらえますか。", "predicted_intents": ["MANAGE_ONLINE_ACCOUNT"], "confidence": 1.0, "source": "active_learning"}
+{"en_query": "オンラインサービスIDの登録の際、「ご契約情報が一致しませんでした。再度確認いただき入力をお願いします。」とエラーが出て登録できません。", "predicted_intents": ["MANAGE_ONLINE_ACCOUNT", "TECHNICAL_SUPPORT"], "confidence": 1.0, "source": "active_learning"}
+{"en_query": "ご契約者さまWEBサービスの詳細ボタンを押すと「この契約は契約状況などにより詳細情報の表示はできません。お手数をおかけしますが、当社問い合わせ先までご連絡ください。」とメッセージが表示され、契約内容の詳細を見ることができません。", "predicted_intents": ["TECHNICAL_SUPPORT", "MANAGE_ONLINE_ACCOUNT"], "confidence": 0.95, "source": "active_learning"}
+{"en_query": "ご家族情報の新規登録（変更）手続きを行いましたが、ご家族情報に反映されていません。", "predicted_intents": ["POLICY_ADMINISTRATION"], "confidence": 1.0, "source": "active_learning"}
+{"en_query": "ご契約者さまWEBサービスで解約返戻金額の確認はできますか。", "predicted_intents": ["INQUIRE_POLICY_DETAILS", "MANAGE_ONLINE_ACCOUNT"], "confidence": 1.0, "source": "active_learning"}
+{"en_query": "ご契約者様WEBサービスの「詳しく見る」を押下しても、いままで参照できた一時払型の保険や変額個人年金保険などの契約内容照会が参照できません。", "predicted_intents": ["TECHNICAL_SUPPORT", "MANAGE_ONLINE_ACCOUNT"], "confidence": 0.9, "source": "active_learning"}
+{"en_query": "すでに登録している家族が改姓（改名）しました。ご契約者さまWEBサービスで家族の改姓手続きはできますか？", "predicted_intents": ["MANAGE_ONLINE_ACCOUNT", "POLICY_ADMINISTRATION"], "confidence": 0.95, "source": "active_learning"}
+{"en_query": "「ご家族情報の登録」に登録している家族の情報を変更したいです。どうしたらよいですか。", "predicted_intents": ["POLICY_ADMINISTRATION"], "confidence": 1.0, "source": "active_learning"}
+{"en_query": "すでに登録している家族情報を削除したい。ご契約者さまWEBサービスで登録家族の削除はできますか？", "predicted_intents": ["POLICY_ADMINISTRATION", "MANAGE_ONLINE_ACCOUNT"], "confidence": 0.95, "source": "active_learning"}
+{"en_query": "家族を登録した後、何か通知は送られてきますか？", "predicted_intents": ["POLICY_ADMINISTRATION"], "confidence": 0.85, "source": "active_learning"}
+{"en_query": "インターネットサービスは無くなってしまったのですか？", "predicted_intents": ["MANAGE_ONLINE_ACCOUNT", "TECHNICAL_SUPPORT"], "confidence": 0.85, "source": "active_learning"}
+{"en_query": "ご契約者さまWEBサービスに登録できない契約はありますか。", "predicted_intents": ["MANAGE_ONLINE_ACCOUNT", "TECHNICAL_SUPPORT"], "confidence": 0.6100118940596921, "source": "active_learning_propagation"}
+{"en_query": "ご契約者さまWEBサービスから住所変更したのですが、いつ反映されますか？", "predicted_intents": ["MANAGE_ONLINE_ACCOUNT", "POLICY_ADMINISTRATION"], "confidence": 0.92, "source": "active_learning"}
+{"en_query": "ご契約者さまWEBサービスで保険料振替口座の変更手続はできますか？", "predicted_intents": ["MANAGE_PREMIUM_PAYMENTS", "MANAGE_ONLINE_ACCOUNT"], "confidence": 1.0, "source": "active_learning"}
+{"en_query": "ご契約者さまWEBサービスで保険料の支払い方法をクレジットカード払いに変更できますか？", "predicted_intents": ["MANAGE_PREMIUM_PAYMENTS", "MANAGE_ONLINE_ACCOUNT"], "confidence": 0.98, "source": "active_learning"}
+{"en_query": "ご契約者さまWEBサービスで改姓手続はできますか？", "predicted_intents": ["POLICY_ADMINISTRATION", "MANAGE_ONLINE_ACCOUNT"], "confidence": 0.9, "source": "active_learning"}
+{"en_query": "ご契約者さまWEBサービスで受取人変更手続はできますか？", "predicted_intents": ["MANAGE_ONLINE_ACCOUNT", "POLICY_ADMINISTRATION"], "confidence": 0.7743428217993253, "source": "active_learning_propagation"}
+{"en_query": "ご契約者さまWEBサービスで契約者貸付はできますか？", "predicted_intents": ["MANAGE_ONLINE_ACCOUNT", "MANAGE_POLICY_LOANS"], "confidence": 0.8265649536354596, "source": "active_learning_propagation"}
+{"en_query": "ご契約者さまWEBサービスで契約者貸付の返済はできますか？", "predicted_intents": ["MANAGE_POLICY_LOANS", "MANAGE_ONLINE_ACCOUNT"], "confidence": 0.77178319941353, "source": "active_learning_propagation"}
+{"en_query": "ご契約者さまWEBサービスで外貨建保険の貸付申込みはできますか？", "predicted_intents": ["MANAGE_POLICY_LOANS", "MANAGE_ONLINE_ACCOUNT"], "confidence": 1.0, "source": "active_learning"}
+{"en_query": "ご契約者さまWEBサービスで生命保険料控除証明書の再発行はできますか？", "predicted_intents": ["REQUEST_DOCUMENTS", "MANAGE_ONLINE_ACCOUNT"], "confidence": 0.95, "source": "active_learning"}
+{"en_query": "ご契約者さまWEBサービスではどのようなサービスが利用できますか。", "predicted_intents": ["MANAGE_ONLINE_ACCOUNT"], "confidence": 0.976272135897652, "source": "active_learning_propagation"}
+{"en_query": "ご契約者さまWEBサービスで給付金の請求はできますか。", "predicted_intents": ["MANAGE_ONLINE_ACCOUNT"], "confidence": 0.9380330116592687, "source": "active_learning_propagation"}
+{"en_query": "ご契約者さまWEBサービスは誰でも利用できますか。", "predicted_intents": ["MANAGE_ONLINE_ACCOUNT"], "confidence": 0.9843765749746117, "source": "active_learning_propagation"}
+{"en_query": "ご契約者さまWEBサービスの利用に費用はかかりますか。", "predicted_intents": ["MANAGE_ONLINE_ACCOUNT"], "confidence": 0.95, "source": "active_learning"}
+{"en_query": "ご契約者さまWEBサービスはいつでも利用できますか。", "predicted_intents": ["MANAGE_ONLINE_ACCOUNT"], "confidence": 0.9716987622161922, "source": "active_learning_propagation"}
+{"en_query": "契約者が変わってもご契約者さまWEBサービスは引き続き利用できますか。", "predicted_intents": ["MANAGE_ONLINE_ACCOUNT", "POLICY_ADMINISTRATION"], "confidence": 0.9, "source": "active_learning"}
+{"en_query": "法人契約でもご契約者さまWEBサービスの利用は可能ですか。", "predicted_intents": ["MANAGE_ONLINE_ACCOUNT"], "confidence": 0.9445604210491066, "source": "active_learning_propagation"}
+{"en_query": "ご契約者さまWEBサービスの証券番号登録方法を教えてください。", "predicted_intents": ["MANAGE_ONLINE_ACCOUNT"], "confidence": 0.9440657584973836, "source": "active_learning_propagation"}
+{"en_query": "ご契約者さまWEBサービスのワンタイムパスワードを入力しても認証しません。", "predicted_intents": ["TECHNICAL_SUPPORT", "MANAGE_ONLINE_ACCOUNT"], "confidence": 1.0, "source": "active_learning"}
+{"en_query": "ご契約者さまWEBサービスで契約内容照会ができません。", "predicted_intents": ["TECHNICAL_SUPPORT", "MANAGE_ONLINE_ACCOUNT"], "confidence": 0.9, "source": "active_learning"}
+{"en_query": "保険証券は再発行できますか。", "predicted_intents": ["REQUEST_DOCUMENTS"], "confidence": 1.0, "source": "active_learning"}
+{"en_query": "今までに払い込んだ保険料の合計額を証明する書類を発行してもらえますか。", "predicted_intents": ["REQUEST_DOCUMENTS", "MANAGE_PREMIUM_PAYMENTS"], "confidence": 0.95, "source": "active_learning"}
+{"en_query": "再発行した保険証券はどのように送付されますか。", "predicted_intents": ["REQUEST_DOCUMENTS", "POLICY_ADMINISTRATION"], "confidence": 0.95, "source": "active_learning"}
+{"en_query": "「ご契約内容のお知らせ」という書類が届きました。どこに注意して読めばよいですか。", "predicted_intents": ["INQUIRE_POLICY_DETAILS"], "confidence": 0.9, "source": "active_learning"}
+{"en_query": "「未納のご案内（保険料口座振替のご案内）」が届きました。どうすればよいですか。", "predicted_intents": ["MANAGE_PREMIUM_PAYMENTS"], "confidence": 1.0, "source": "active_learning"}
+{"en_query": "「保険料のお立替のお知らせ（保険料の自動振替貸付）」「自動払済保険適用のお知らせ」「自動延長定期保険適用のお知らせ」が届きました。どうすればよいですか。", "predicted_intents": ["MANAGE_PREMIUM_PAYMENTS", "MANAGE_POLICY_LOANS", "POLICY_ADMINISTRATION"], "confidence": 0.95, "source": "active_learning"}
+{"en_query": "「更新のご案内」が届きました。どこに注意して読めばいいですか。", "predicted_intents": ["POLICY_ADMINISTRATION"], "confidence": 0.85, "source": "active_learning"}
+{"en_query": "「満期のご案内（満期保険金・生存給付金等お受取手続きのご案内）」が届きました。どこに注意して読めばいいですか。", "predicted_intents": ["CLAIM_BENEFITS"], "confidence": 0.9, "source": "active_learning"}
+{"en_query": "「保険期間満了のご案内」が届きました。どこに注意して読めばいいですか。", "predicted_intents": ["INQUIRE_POLICY_DETAILS"], "confidence": 0.85, "source": "active_learning"}
+{"en_query": "「年払／半年払（郵振）案内」が届きました。どこに注意して読めばいいですか。", "predicted_intents": ["MANAGE_PREMIUM_PAYMENTS"], "confidence": 0.9, "source": "active_learning"}
+{"en_query": "請求書類を海外へ発送してもらうことはできますか。", "predicted_intents": ["REQUEST_DOCUMENTS"], "confidence": 1.0, "source": "active_learning"}
+{"en_query": "変額個人年金保険の「ご契約内容のお知らせ」はいつ送られますか。", "predicted_intents": ["REQUEST_DOCUMENTS"], "confidence": 0.9, "source": "active_learning"}
+{"en_query": "「ご契約内容のお知らせ」はいつ送られますか。", "predicted_intents": ["INQUIRE_POLICY_DETAILS", "REQUEST_DOCUMENTS"], "confidence": 0.95, "source": "active_learning"}
+{"en_query": "解約返戻金額の証明書を発行してもらえますか。", "predicted_intents": ["REQUEST_DOCUMENTS", "POLICY_ADMINISTRATION"], "confidence": 0.95, "source": "active_learning"}
+{"en_query": "解約後に届いた手続完了の案内を紛失しました。", "predicted_intents": ["POLICY_ADMINISTRATION", "REQUEST_DOCUMENTS"], "confidence": 0.92, "source": "active_learning"}
+{"en_query": "約款を紛失しました。再発行できますか。", "predicted_intents": ["REQUEST_DOCUMENTS"], "confidence": 1.0, "source": "active_learning"}
+{"en_query": "給付金（保険金）を受け取った際に届いた支払明細書を紛失してしまいました。再発行できますか。", "predicted_intents": ["REQUEST_DOCUMENTS", "CLAIM_BENEFITS"], "confidence": 1.0, "source": "active_learning"}
+{"en_query": "契約中の保険に保障内容を追加することはできますか。", "predicted_intents": ["POLICY_ADMINISTRATION"], "confidence": 1.0, "source": "active_learning"}
+{"en_query": "保険料払込免除特約を付加した医療保険に加入していますが、保障性特約の中途付加はできますか。", "predicted_intents": ["POLICY_ADMINISTRATION"], "confidence": 0.95, "source": "active_learning"}
+{"en_query": "加入している医療保険（ガン保険）がもうまもなく満了になります。この機会に最新の保障内容に変更したいのですがどうすればよいですか。", "predicted_intents": ["POLICY_ADMINISTRATION"], "confidence": 0.95, "source": "active_learning"}
+{"en_query": "保険の加入を検討中です。商品について教えてください。", "predicted_intents": [], "confidence": 0.9, "source": "active_learning"}
+{"en_query": "加入している保険の見直相談をしたいです。", "predicted_intents": ["POLICY_ADMINISTRATION", "INQUIRE_POLICY_DETAILS"], "confidence": 0.85, "source": "active_learning"}
+{"en_query": "個人の生命保険は何歳でも加入することができますか。", "predicted_intents": ["INQUIRE_GENERAL_INFORMATION"], "confidence": 0.92, "source": "active_learning"}
+{"en_query": "加入している保険の保障を増やすことはできますか。", "predicted_intents": ["POLICY_ADMINISTRATION"], "confidence": 0.95, "source": "active_learning"}
+{"en_query": "商品付帯サービスとはどのようなサービスですか？", "predicted_intents": ["INQUIRE_VALUE_ADDED_SERVICES"], "confidence": 1.0, "source": "active_learning"}
+{"en_query": "抜歯をしたら手術給付金は支払われますか。", "predicted_intents": ["CLAIM_BENEFITS", "INQUIRE_POLICY_DETAILS"], "confidence": 1.0, "source": "active_learning"}
+{"en_query": "WEBの登録キャンペーンについて教えてください。", "predicted_intents": ["INQUIRE_VALUE_ADDED_SERVICES", "MANAGE_ONLINE_ACCOUNT"], "confidence": 0.75, "source": "active_learning"}
+{"en_query": "クーリング・オフ（お申し込みの撤回など）について教えてください。", "predicted_intents": ["POLICY_ADMINISTRATION"], "confidence": 0.9, "source": "active_learning"}
+{"en_query": "おはようございます", "predicted_intents": ["GENERAL_GREETING"], "confidence": 1.0, "source": "active_learning"}
+{"en_query": "こんばんは", "predicted_intents": ["GENERAL_GREETING"], "confidence": 1.0, "source": "active_learning"}
+{"en_query": "ありがとうございます", "predicted_intents": ["GENERAL_CONVERSATION"], "confidence": 1.0, "source": "active_learning"}
+{"en_query": "お世話になっております", "predicted_intents": ["GENERAL_GREETING"], "confidence": 1.0, "source": "active_learning"}
+{"en_query": "メリッサとは", "predicted_intents": ["INQUIRE_COMPANY_INFORMATION"], "confidence": 0.9, "source": "active_learning"}
+{"en_query": "さようなら", "predicted_intents": ["GENERAL_CONVERSATION"], "confidence": 1.0, "source": "active_learning"}
+{"en_query": "ワンタイムパスワードとは何ですか？", "predicted_intents": ["MANAGE_ONLINE_ACCOUNT"], "confidence": 1.0, "source": "active_learning"}
+{"en_query": "ご契約者さまWEBサービスにログインするためのワンタイムパスワードメールや登録完了メールが届きません。", "predicted_intents": ["MANAGE_ONLINE_ACCOUNT", "TECHNICAL_SUPPORT"], "confidence": 0.98, "source": "active_learning"}
+{"en_query": "ご契約者さまWEBサービスにログインするためのワンタイムパスワードの有効期限が切れてしまいました。", "predicted_intents": ["MANAGE_ONLINE_ACCOUNT", "TECHNICAL_SUPPORT"], "confidence": 0.8563741089100987, "source": "active_learning_propagation"}
+{"en_query": "ワンタイムパスワード認証の登録ができずログインできません。", "predicted_intents": ["TECHNICAL_SUPPORT", "MANAGE_ONLINE_ACCOUNT"], "confidence": 0.95, "source": "active_learning"}
+{"en_query": "コールセンターの年末年始のお休みはいつですか", "predicted_intents": ["INQUIRE_COMPANY_INFO"], "confidence": 0.98, "source": "active_learning"}
+{"en_query": "マイナンバー申告の書類が届きました。 なぜ申告が必要なのですか。", "predicted_intents": ["INQUIRE_TAX_INFORMATION"], "confidence": 0.9, "source": "active_learning"}
+{"en_query": "どのような場合に、マイナンバーを提出する必要がありますか。", "predicted_intents": ["POLICY_ADMINISTRATION", "INQUIRE_TAX_INFORMATION"], "confidence": 0.85, "source": "active_learning"}
+{"en_query": "保険に加入後すぐにマイナンバー申告書が届いた。 まだ保険金などを受け取っていないが、マイナンバーを申告する必要はありますか。", "predicted_intents": ["POLICY_ADMINISTRATION"], "confidence": 0.9, "source": "active_learning"}
+{"en_query": "解約返戻金や満期金を受け取った後で、メットライフ生命との契約は終了しているのに、なぜマイナンバーの提出が必要なのですか。", "predicted_intents": ["INQUIRE_TAX_INFORMATION"], "confidence": 0.95, "source": "active_learning"}
+{"en_query": "マイナンバーを申告したら税金がかかりますか。", "predicted_intents": ["INQUIRE_TAX_INFORMATION"], "confidence": 0.95, "source": "active_learning"}
+{"en_query": "マイナンバーを申告できない場合はどうすれば良いですか。", "predicted_intents": ["INQUIRE_TAX_INFORMATION", "POLICY_ADMINISTRATION"], "confidence": 0.9, "source": "active_learning"}
+{"en_query": "マイナンバーの申告書が複数枚到着したが、1枚だけの提出でよいですか。", "predicted_intents": ["POLICY_ADMINISTRATION"], "confidence": 0.9, "source": "active_learning"}
+{"en_query": "マイナンバーをメットライフに申告しないとどうなりますか。", "predicted_intents": ["INQUIRE_GENERAL_INFORMATION", "POLICY_ADMINISTRATION"], "confidence": 0.85, "source": "active_learning"}
+{"en_query": "以前、マイナンバー申告書を提出したのですがまた同じ書類が届きました。再提出する必要がありますか。", "predicted_intents": ["POLICY_ADMINISTRATION", "INQUIRE_TAX_INFORMATION"], "confidence": 0.9, "source": "active_learning"}
+{"en_query": "抗原検査キットや自費によるPCR検査で新型コロナウイルス陽性となりました。 その後、自宅で療養をしていましたが、入院給付金は支払われますか？", "predicted_intents": ["CLAIM_BENEFITS"], "confidence": 1.0, "source": "active_learning"}
+{"en_query": "ゴールデンウィーク期間中のコールセンターの営業時間を教えてください", "predicted_intents": ["INQUIRE_COMPANY_INFO"], "confidence": 1.0, "source": "active_learning"}
+{"en_query": "外貨建保険料（米ドル・ユーロ）で円換算額の保険料の確認方法はありますか。", "predicted_intents": ["MANAGE_PREMIUM_PAYMENTS", "INQUIRE_POLICY_DETAILS"], "confidence": 0.9, "source": "active_learning"}
+{"en_query": "外貨建保険（米ドル）の「保険料ご請求のお知らせ」が届かなくなりました。", "predicted_intents": ["MANAGE_PREMIUM_PAYMENTS"], "confidence": 0.9, "source": "active_learning"}
+{"en_query": "歯のインプラントの手術は給付金の支払対象になりますか。", "predicted_intents": ["CLAIM_BENEFITS", "INQUIRE_POLICY_DETAILS"], "confidence": 0.9, "source": "active_learning"}
+{"en_query": "粉瘤の手術は給付金の支払対象になりますか。", "predicted_intents": ["CLAIM_BENEFITS"], "confidence": 0.95, "source": "active_learning"}
+{"en_query": "眼瞼下垂の手術は給付金の支払対象になりますか。", "predicted_intents": ["CLAIM_BENEFITS"], "confidence": 1.0, "source": "active_learning"}
+{"en_query": "大腸ポリープの手術は給付金の支払対象になりますか。", "predicted_intents": ["CLAIM_BENEFITS"], "confidence": 1.0, "source": "active_learning"}
+{"en_query": "痔の手術は給付金の支払対象になりますか。", "predicted_intents": ["CLAIM_BENEFITS", "INQUIRE_POLICY_DETAILS"], "confidence": 0.9, "source": "active_learning"}
+{"en_query": "特別勘定（運用先）の変更方法を教えてください。", "predicted_intents": ["POLICY_ADMINISTRATION"], "confidence": 0.95, "source": "active_learning"}
+{"en_query": "ライフインベストシリーズの積立金、解約返戻金、運用先、運用実績を知るにはどうすればよいですか。", "predicted_intents": ["INQUIRE_POLICY_DETAILS"], "confidence": 0.9, "source": "active_learning"}
+{"en_query": "生命保険料控除証明書の取得について、マイナポータルへ連携していますか。", "predicted_intents": ["INQUIRE_TAX_INFORMATION", "REQUEST_DOCUMENTS", "MANAGE_ONLINE_ACCOUNT"], "confidence": 0.9, "source": "active_learning"}
+{"en_query": "メットライフ生命からSMS（ショートメッセージサービス）が送信されることはありますか。", "predicted_intents": ["INQUIRE_GENERAL_INFORMATION"], "confidence": 0.8, "source": "active_learning"}
+{"en_query": "WEBで利用できるサービスはありますか。", "predicted_intents": ["MANAGE_ONLINE_ACCOUNT"], "confidence": 0.85, "source": "active_learning"}
+{"en_query": "ご契約者さまWEBサービスへログインすると、「現在、本サービスをご利用いただくことができません」とメッセージが表示されました。\nどうすればよいですか。", "predicted_intents": ["MANAGE_ONLINE_ACCOUNT", "TECHNICAL_SUPPORT"], "confidence": 0.804216090326328, "source": "active_learning_propagation"}
+{"en_query": "新規登録やログイン時に操作や手続きが進みません。", "predicted_intents": ["TECHNICAL_SUPPORT", "MANAGE_ONLINE_ACCOUNT"], "confidence": 0.98, "source": "active_learning"}
+{"en_query": "ご契約者さまWEBサービスを利用したいのですが、どうしたらよいですか。", "predicted_intents": ["MANAGE_ONLINE_ACCOUNT"], "confidence": 0.9807999058687217, "source": "active_learning_propagation"}
+{"en_query": "「メットライフ生命アプリ」を使用すると、ご契約者さまWEBサービスへ案内されます。", "predicted_intents": ["MANAGE_ONLINE_ACCOUNT"], "confidence": 0.9, "source": "active_learning"}
+{"en_query": "ご契約者さまWEBサービス利用にあたり、規定を表示するが「同意するして進む」のボタンを押すことができません。", "predicted_intents": ["TECHNICAL_SUPPORT", "MANAGE_ONLINE_ACCOUNT"], "confidence": 1.0, "source": "active_learning"}
+{"en_query": "今までに払い込んだ保険料の合計額を確認する方法はありますか。", "predicted_intents": ["INQUIRE_POLICY_DETAILS", "MANAGE_PREMIUM_PAYMENTS"], "confidence": 0.9, "source": "active_learning"}
+{"en_query": "ご契約者さまWEBサービスの操作は家族が代理でできますか。", "predicted_intents": ["MANAGE_ONLINE_ACCOUNT"], "confidence": 1.0, "source": "active_learning"}
+{"en_query": "ご契約者さまWEBサービスの推奨環境を教えてください。", "predicted_intents": ["MANAGE_ONLINE_ACCOUNT"], "confidence": 0.9404508744478918, "source": "active_learning_propagation"}
+{"en_query": "メールでの問い合わせはできますか", "predicted_intents": ["INQUIRE_COMPANY_INFORMATION"], "confidence": 0.9, "source": "active_learning"}
+{"en_query": "「メットライフ生命 クラブオフ」の利用方法を教えてください", "predicted_intents": ["INQUIRE_POLICYHOLDER_SERVICES"], "confidence": 0.9, "source": "active_learning"}
+{"en_query": "解約後にクレジットカード会社から保険料の請求がありました。なぜですか。", "predicted_intents": ["MANAGE_PREMIUM_PAYMENTS", "POLICY_ADMINISTRATION"], "confidence": 0.9, "source": "active_learning"}
+{"en_query": "ご家族登録制度の登録方法を教えてください。", "predicted_intents": ["POLICY_ADMINISTRATION"], "confidence": 0.95, "source": "active_learning"}
+{"en_query": "手続書類を受け取りましたが、手続きをキャンセルしたいです。書類はどうすればよいですか。", "predicted_intents": ["POLICY_ADMINISTRATION"], "confidence": 0.9, "source": "active_learning"}
+{"en_query": "災害入院給付金とありますが、この災害とは何のことですか。", "predicted_intents": ["INQUIRE_POLICY_DETAILS", "CLAIM_BENEFITS"], "confidence": 0.9, "source": "active_learning"}
+{"en_query": "解約返戻金の振込先は契約者本人以外の口座を指定できますか。", "predicted_intents": ["POLICY_ADMINISTRATION"], "confidence": 0.9, "source": "active_learning"}
+{"en_query": "満期金はいつ送金されますか。", "predicted_intents": ["CLAIM_BENEFITS"], "confidence": 0.85, "source": "active_learning"}
+{"en_query": "商品付帯サービスを利用したいのですが、連絡先を教えていただけますか。", "predicted_intents": ["INQUIRE_VALUE_ADDED_SERVICES"], "confidence": 1.0, "source": "active_learning"}
+{"en_query": "給付金・保険金関連の支払請求書や申告書を書き間違えました。訂正印などは必要ですか。", "predicted_intents": ["CLAIM_BENEFITS", "POLICY_ADMINISTRATION"], "confidence": 0.9, "source": "active_learning"}
+{"en_query": "保険証券を紛失した場合、給付金・保険金の請求はできますか。", "predicted_intents": ["CLAIM_BENEFITS", "POLICY_ADMINISTRATION"], "confidence": 0.95, "source": "active_learning"}
+{"en_query": "名義変更書類の書き方を間違えました。訂正印などは必要ですか。", "predicted_intents": ["POLICY_ADMINISTRATION"], "confidence": 0.85, "source": "active_learning"}
+{"en_query": "控除証明書の電子データが、同じ契約で複数発行されました。どれを使ったらいいですか。", "predicted_intents": ["INQUIRE_TAX_INFORMATION"], "confidence": 1.0, "source": "active_learning"}
+{"en_query": "「メットライフ生命 マイナポータル連携サービス」の利用申込みのため、スマートフォンでマイナンバーカードを読み取りしたいのですが、どのようにしたらいいですか。", "predicted_intents": ["MANAGE_ONLINE_ACCOUNT"], "confidence": 0.9, "source": "active_learning"}
+{"en_query": "マイナンバーカードのパスワード入力がロックしました。", "predicted_intents": ["MANAGE_ONLINE_ACCOUNT"], "confidence": 0.8, "source": "active_learning"}
+{"en_query": "「メットライフ生命 マイナポータル連携サービス」の利用申込み期間はありますか。", "predicted_intents": ["MANAGE_ONLINE_ACCOUNT"], "confidence": 0.9, "source": "active_learning"}
+{"en_query": "「メットライフ生命 マイナポータル連携サービス」の利用申込みは、毎年必要ですか。", "predicted_intents": ["MANAGE_ONLINE_ACCOUNT"], "confidence": 0.85, "source": "active_learning"}
+{"en_query": "「メットライフ生命 マイナポータル連携サービス」の利用を停止（解約）できますか。", "predicted_intents": ["MANAGE_ONLINE_ACCOUNT"], "confidence": 0.95, "source": "active_learning"}
+{"en_query": "「メットライフ生命 マイナポータル連携サービス」のメールアドレスを変更したいです。", "predicted_intents": ["MANAGE_ONLINE_ACCOUNT"], "confidence": 1.0, "source": "active_learning"}
+{"en_query": "「ご契約内容のお知らせ」の郵送停止の連絡が来ました。今後も郵送してほしいのですが、どうすればよいですか。", "predicted_intents": ["POLICY_ADMINISTRATION"], "confidence": 0.9, "source": "active_learning"}
+{"en_query": "変額個人年金保険の積立金、解約返戻金、運用先、運用実績を知るにはどうすればよいですか。", "predicted_intents": ["POLICY_ADMINISTRATION", "MANAGE_ONLINE_ACCOUNT"], "confidence": 0.9, "source": "active_learning"}
+{"en_query": "「利率変動型一時払終身保険（米ドル建 16）または利率変動型一時払終身保険（豪ドル建 16）」で変額終身保険特約（16）が付加されている契約の積立金、解約返戻金、運用先、運用実績を知るにはどうすればよいですか。", "predicted_intents": ["INQUIRE_POLICY_DETAILS"], "confidence": 0.95, "source": "active_learning"}
+{"en_query": "ご契約者さまWEBサービスのワンタイムパスワードをSMSで受け取ることはできますか。", "predicted_intents": ["MANAGE_ONLINE_ACCOUNT"], "confidence": 0.9679784113903133, "source": "active_learning_propagation"}
+{"en_query": "ワンタイムパスワード入力画面を閉じてしまい、ご契約者さまWEBサービスにログインできません。どうしたらよいですか。", "predicted_intents": ["MANAGE_ONLINE_ACCOUNT", "TECHNICAL_SUPPORT"], "confidence": 0.8779096354110482, "source": "active_learning_propagation"}
+{"en_query": "ご契約者さまWEBサービスのログイン操作を複数回間違えてしまい、ログインできなくなりました。", "predicted_intents": ["MANAGE_ONLINE_ACCOUNT", "TECHNICAL_SUPPORT"], "confidence": 0.9214560188616048, "source": "active_learning_propagation"}
+{"en_query": "契約者が未成年の場合、WEBで給付金請求はできますか。", "predicted_intents": ["CLAIM_BENEFITS", "MANAGE_ONLINE_ACCOUNT"], "confidence": 1.0, "source": "active_learning"}
+{"en_query": "契約者が法人の場合、WEBで給付金請求はできますか。", "predicted_intents": ["MANAGE_ONLINE_ACCOUNT", "CLAIM_BENEFITS"], "confidence": 0.47824060798751106, "source": "active_learning_propagation"}
+{"en_query": "ご契約者さまWEBサービスの画面の読み込みが遅く、次の画面に切り替わるまでに時間がかかります。なにか対処方法はありますか。", "predicted_intents": ["TECHNICAL_SUPPORT"], "confidence": 1.0, "source": "active_learning"}
+{"en_query": "家族で同じメールアドレス（ID）を使って、ご契約者さまWEBサービスのID登録はできますか。", "predicted_intents": ["MANAGE_ONLINE_ACCOUNT"], "confidence": 1.0, "source": "active_learning"}
+{"en_query": "ワンタイムパスワードのメールを確認した後、ご契約者さまWEBサービスのパスワード入力画面が見つからなくなりました。", "predicted_intents": ["MANAGE_ONLINE_ACCOUNT", "TECHNICAL_SUPPORT"], "confidence": 0.8582861618396234, "source": "active_learning_propagation"}
+{"en_query": "ワンタイムパスワードのメールを確認すると、ご契約者さまWEBサービスの入力画面が消えてしまいます。", "predicted_intents": ["MANAGE_ONLINE_ACCOUNT", "TECHNICAL_SUPPORT"], "confidence": 0.825038951484525, "source": "active_learning_propagation"}
+{"en_query": "クラブオフが実施しているキャンペーンの応募方法を教えてください。", "predicted_intents": ["POLICY_ADMINISTRATION"], "confidence": 0.6, "source": "active_learning"}
+{"en_query": "フットサルの観戦チケットキャンペーンについて教えてください。", "predicted_intents": ["INQUIRE_VALUE_ADDED_SERVICES"], "confidence": 0.85, "source": "active_learning"}
